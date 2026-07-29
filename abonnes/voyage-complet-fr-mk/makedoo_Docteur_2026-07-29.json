@@ -1,0 +1,430 @@
+{
+  "id": 1785312694851,
+  "name": "Docteur",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 70,
+  "exchanges": [
+    {
+      "original": "La santé — Chez le docteur",
+      "translated": "Здравје — Кај лекар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est l'hôpital, s'il vous plaît!",
+      "translated": "Каде е болницата, ве молам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Appelez le médecin, s'il vous plaît!",
+      "translated": "Ве молам јавете се на доктор!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'adresse d'un bon médecin?",
+      "translated": "Адресата на добар доктор?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais consulter un spécialiste",
+      "translated": "Би сакал/а да се консултирам со специјалист",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelles sont les heures de consultation?",
+      "translated": "Кои се часовите за консултации?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour, docteur!",
+      "translated": "Bonjour, docteur!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'avez-vous?",
+      "translated": "Што не е во ред?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce que vous fait mal?",
+      "translated": "Што те боли?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Depuis quand êtes-vous malade?",
+      "translated": "Колку долго си болен/а?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Depuis trois jours",
+      "translated": "За три дена",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai mal ici",
+      "translated": "Имам болки тука",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis tombé",
+      "translated": "Паднав",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis enrhumé",
+      "translated": "Имам настинка.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai de la fièvre",
+      "translated": "Имам треска",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai mal à la gorge",
+      "translated": "Ме боли грлото.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai mal à la tête",
+      "translated": "имам главоболка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ma température est normale",
+      "translated": "Мојата температура е нормална",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bien",
+      "translated": "ДОБРО",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Déshabillez-vous!",
+      "translated": "Соблечи се! Соблечи се!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Couchez-vous sur ce divan!",
+      "translated": "Легнете на оваа кауч!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Respirez!",
+      "translated": "Диши!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Toussez!",
+      "translated": "Кашлица!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ouvrez la bouche!",
+      "translated": "Отвори ја устата!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Tirez la langue!",
+      "translated": "Исплази го јазикот! (Испразни го јазикот!)",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que je peux me lever?",
+      "translated": "Може ли да станам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui",
+      "translated": "Да",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Habillez-vous, s'il vous plaît!",
+      "translated": "Ве молам облечете се!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vais vous faire une ordonnance",
+      "translated": "Ќе ти напишам рецепт",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous devez garder le lit quelques jours",
+      "translated": "Треба да останете во кревет неколку дена.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que je dois revenir?",
+      "translated": "Дали треба да се вратам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien je vous dois?",
+      "translated": "Колку ти должам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voici vos ordonnances",
+      "translated": "Еве ги вашите рецепти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci beaucoup, docteur",
+      "translated": "Ви благодарам многу, докторе.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Au revoir!",
+      "translated": "Чао!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chirurgien",
+      "translated": "хирург",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "laryngologiste",
+      "translated": "ларинголог",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "oculiste",
+      "translated": "окулист",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gynécologue",
+      "translated": "гинеколог",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gastro-intérologue",
+      "translated": "гастроентеролог",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bras",
+      "translated": "рака",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "jambe",
+      "translated": "нога",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "œil",
+      "translated": "око",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "poitrine",
+      "translated": "градите",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pied",
+      "translated": "стапало",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bile",
+      "translated": "жолчката",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "articulation",
+      "translated": "зглоб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cou",
+      "translated": "врат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cœur",
+      "translated": "срце",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "estomac",
+      "translated": "стомак",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "foie",
+      "translated": "црн дроб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tête",
+      "translated": "глава",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "nez",
+      "translated": "нос",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rein",
+      "translated": "бубрег",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dos",
+      "translated": "назад",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "épaule",
+      "translated": "рамо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "doigt",
+      "translated": "прст",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "peau",
+      "translated": "кожа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "genou",
+      "translated": "колено",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gorge",
+      "translated": "грло",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "oreille",
+      "translated": "уво",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cerveau",
+      "translated": "мозок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "amygdale",
+      "translated": "крајниците",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "insomnie",
+      "translated": "несоница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "mal de tête",
+      "translated": "главоболка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "toux",
+      "translated": "кашлица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "constipation",
+      "translated": "запек",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "diarrhée",
+      "translated": "дијареа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vomissement",
+      "translated": "повраќање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "accès",
+      "translated": "пристап",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
