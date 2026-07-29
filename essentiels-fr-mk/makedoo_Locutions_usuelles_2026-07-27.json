@@ -1,0 +1,154 @@
+{
+  "id": 1785169078272,
+  "name": "Locutions usuelles",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 24,
+  "exchanges": [
+    {
+      "original": "locutions usuelles",
+      "translated": "вообичаени изрази",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "monsieur",
+      "translated": "Господине",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "madame",
+      "translated": "Г-ѓа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "mademoiselle",
+      "translated": "промашување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "mesdames et messieurs",
+      "translated": "Дами и господа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chers amis",
+      "translated": "драги пријатели",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Monsieur le Directeur",
+      "translated": "Г-дин директор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui monsieur.",
+      "translated": "Да, господине.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui madame.",
+      "translated": "Да госпоѓо.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour.",
+      "translated": "Добро утро.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonsoir.",
+      "translated": "Добра вечер.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonne nuit.",
+      "translated": "Добра ноќ.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "adieu",
+      "translated": "збогум",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "À bientôt.",
+      "translated": "Се гледаме наскоро.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis heureux de vous rencontrer.",
+      "translated": "Мило ми е што се запознавме.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "comment allez-vous",
+      "translated": "Како си",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci, je vais bien.",
+      "translated": "Ви благодарам, добро сум.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bienvenue",
+      "translated": "Добредојдовте",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "et vous",
+      "translated": "И ти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bon voyage",
+      "translated": "имај добар пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci beaucoup.",
+      "translated": "Ви благодарам многу.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vous en prie.",
+      "translated": "Не сте добредојдени.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Salut.",
+      "translated": "Здраво.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci beaucoup, je n'oublierai pas.",
+      "translated": "Ви благодарам многу, нема да заборавам.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
