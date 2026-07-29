@@ -1,0 +1,328 @@
+{
+  "id": 1785275704095,
+  "name": "Avion",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 53,
+  "exchanges": [
+    {
+      "original": "Dans l'avion",
+      "translated": "Во авионот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce qu'on peut prendre l'avion pour aller à ...?",
+      "translated": "Можеме ли да летаме до...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est le bureau de voyages aériens ...?",
+      "translated": "Каде е туристичката канцеларија на авиокомпанијата...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dites-moi où est le guichet de la compagnie AIR FRANCE, s'il vous plaît!",
+      "translated": "Ве молам кажете ми каде е билетарницата на Ер Франс!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure part l'avion à pour ...?",
+      "translated": "Во колку часот полетува авионот...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure arrive l'avion à ...?",
+      "translated": "Во колку часот пристигнува авионот...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel est le prix du billet d'avion pour ...?",
+      "translated": "Колку чини авионскиот билет до ...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vol simple où aller et retour?",
+      "translated": "Еднонасочен лет: појдовен и повратен?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais retenir ... places à la date du ... pour ...",
+      "translated": "Би сакал/а да резервирам ... места на датумот на ... за ...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure dois-je être à l'aéroport?",
+      "translated": "Во колку часот треба да бидам на аеродромот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est le contrôle des passeports et la douane?",
+      "translated": "Каде е пасошката контрола и царината?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mes bagages ne contiennent que des objets personnelles",
+      "translated": "Мојот багаж содржи само лични работи",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Indiquez-moi ma place, s'il vous plaît!",
+      "translated": "Ве молам покажете ми го моето седиште!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Attachez les ceintures, s'il vous plaît!",
+      "translated": "Врзете ги безбедносните појаси, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Appelez l'hôtesse!",
+      "translated": "Јавете се на домаќинката!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne me sens pas bien",
+      "translated": "Не се чувствувам добро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un médicament contre le mal d'air, s'il vous plaît!",
+      "translated": "Дајте ми лек за мачнина, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que je pourrais avoir un journal, un verre d'eau minérale et des cigarettes",
+      "translated": "Може ли да добијам весник, чаша минерална вода и цигари?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle altitude sommes-nous maintenant?",
+      "translated": "На која надморска височина сме сега?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure est l'atterrissage?",
+      "translated": "Во колку часот е слетувањето?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dans dix minutes",
+      "translated": "За десет минути",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais prendre mes bagages avec moi",
+      "translated": "Сакам да го земам багажот со мене",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mes bagages peuvent être emportés au bureau en ville",
+      "translated": "Мојот багаж може да се однесе во канцеларијата во градот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais aller à l'hôtel",
+      "translated": "Je voudrais aller à l'hôtel",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "avion",
+      "translated": "авион",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "car",
+      "translated": "затоа што",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "équipe",
+      "translated": "тим",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "avion à réaction",
+      "translated": "млазен авион",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "hydroavion",
+      "translated": "хидроплан",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "hélicoptère",
+      "translated": "хеликоптер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "capitaine",
+      "translated": "капетан",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pilote",
+      "translated": "пилот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "passager",
+      "translated": "патник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vol",
+      "translated": "лет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "parachute",
+      "translated": "падобран",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "coin-fenêtre",
+      "translated": "агол на прозорецот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "aviateur",
+      "translated": "авијатичар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "air",
+      "translated": "воздух",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ligne aérienne",
+      "translated": "авиокомпанија",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "liste d'attente",
+      "translated": "листа на чекање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "par avion",
+      "translated": "со авион",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "machine",
+      "translated": "машина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "moteur",
+      "translated": "мотор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "brouillard",
+      "translated": "магла",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "nuage",
+      "translated": "облак",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sortie de secours",
+      "translated": "ИЗЛЕЗ ВО ИТНИ СЛУЧАИ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "atterrissage forcé",
+      "translated": "принудно слетување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "radar",
+      "translated": "радар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "steward",
+      "translated": "управител",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vol transatlantique",
+      "translated": "трансатлантски лет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vitesse supersonique",
+      "translated": "суперсонична брзина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "atterrissage",
+      "translated": "слетување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "prendre l'avion",
+      "translated": "качи се на авион",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

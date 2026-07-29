@@ -1,0 +1,238 @@
+{
+  "id": 1785270735466,
+  "name": "Poste",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 38,
+  "exchanges": [
+    {
+      "original": "A la poste",
+      "translated": "Во поштата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où on peut acheter des timbres?",
+      "translated": "Каде можам да купам маркички?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je veux envoyer une lettre",
+      "translated": "Сакам да испратам писмо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pouvez-vous me dire comment je puis aller à la Poste?",
+      "translated": "Можете ли да ми кажете како можам да стигнам до поштата?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire une enveloppe et des timbres",
+      "translated": "Би сакал/а плико и неколку марки.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel timbre faut-il pour l'étranger?",
+      "translated": "Каква марка е потребна за патување во странство?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien faut-il pour cette lettre?",
+      "translated": "Колку пари се потребни за да се добие ова писмо?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'attends du courrier (poste-restante)",
+      "translated": "Очекувам пошта (poste-generalante).",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-il arrivé une lettre pour moi?",
+      "translated": "Дали ми стигна писмо?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est(-ce qu'il y a) la boîte aux lettres?",
+      "translated": "Каде е поштенското сандаче?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est(-ce qu'il y a) le guichet pour les timbres?",
+      "translated": "Каде е бројачот за маркички?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Et le guichet pour les colis?",
+      "translated": "А што е со местото за оставање на пакетот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "je voudrais envoyer une lettre recommandée",
+      "translated": "Сакам да испратам препорачано писмо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais envoyer un télégramme",
+      "translated": "Би сакал/а да испратам жичен сигнал",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle est l'affranchissement de ce paquet?",
+      "translated": "Колкава е поштарината за овој пакет?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais envoyer ce paquet pour ...",
+      "translated": "Сакам да го испратам овој пакет до...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je veux envoyer mandat télégraphique",
+      "translated": "Сакам да испратам телеграфска наредба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Remplissez cette formule!",
+      "translated": "Пополнете го овој формулар!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Remplissez cette déclaration!",
+      "translated": "Пополнете ја оваа декларација!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pour l'étranger il faut remplir une déclaration en douane",
+      "translated": "За странски земји, мора да се пополни царинска декларација.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "lettre",
+      "translated": "писмо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "timbre",
+      "translated": "печат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "adresse",
+      "translated": "адреса",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "destinataire",
+      "translated": "ПРИМАТЕЛ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "expéditeur",
+      "translated": "испраќач",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "carte postale",
+      "translated": "разгледница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "carte illustrée",
+      "translated": "илустрирана мапа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "affranchissement",
+      "translated": "поштарина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "port",
+      "translated": "порта",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "envoi",
+      "translated": "испраќање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tarif",
+      "translated": "цена",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pèse-lettre",
+      "translated": "скала на букви",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "guichet",
+      "translated": "билетарница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "envoyer",
+      "translated": "испрати",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "par avion",
+      "translated": "со авион",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "express",
+      "translated": "експрес",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "urgent",
+      "translated": "итно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "facteur",
+      "translated": "поштар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

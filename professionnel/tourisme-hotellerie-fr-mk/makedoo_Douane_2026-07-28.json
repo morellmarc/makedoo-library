@@ -1,0 +1,178 @@
+{
+  "id": 1785271499368,
+  "name": "Douane",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 28,
+  "exchanges": [
+    {
+      "original": "A la frontière — A la douane",
+      "translated": "На границата — На царината",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour!",
+      "translated": "Добро утро!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Contrôle de passeports!",
+      "translated": "Пасошка контрола!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vos passeports, s'il vous plaît!",
+      "translated": "Вашите пасоши, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je n'ai pas de passeport",
+      "translated": "Немам пасош",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai une carte de passage de frontière",
+      "translated": "Имам картичка за граничен премин",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Votre permis de conduire, s'il vous plaît!",
+      "translated": "Вашата возачка дозвола, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Et la carte grise",
+      "translated": "И потврдата за регистрација",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Contrôle douanier!",
+      "translated": "Царинска контрола!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous quelque chose à déclarer?",
+      "translated": "Дали имате нешто да пријавите?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je n'ai rien à déclarer",
+      "translated": "Немам што да пријавам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'avez-vous dans cette valise?",
+      "translated": "Што имаш во овој куфер?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que je dois ouvrir la valise?",
+      "translated": "Дали треба да го отворам куферот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui!",
+      "translated": "Да!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ce sont mes provisions de voyage",
+      "translated": "Ова се моите резерви за патување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est un cadeau",
+      "translated": "Тоа е подарок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est un souvenir",
+      "translated": "Тоа е сеќавање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quels objets peut-on passer sans payer un droit?",
+      "translated": "Кои предмети можат да се внесат без плаќање царина?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je les objets suivants",
+      "translated": "Ги имам следниве артикли",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voici les factures d'achat",
+      "translated": "Еве ги фактурите за купување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien dois-je payer?",
+      "translated": "Колку треба да платам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous n'avez rien à payer",
+      "translated": "Не мора да плаќате ништо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous pouvez fermer vos valises",
+      "translated": "Можете да ги затворите куферите.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Au revoir et bon voyage!",
+      "translated": "Збогум и убав пат!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci!",
+      "translated": "БЛАГОДАРАМ!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vous en prie!",
+      "translated": "Не сте добредојдени!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "douanier",
+      "translated": "царински службеник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "douane",
+      "translated": "douane",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
