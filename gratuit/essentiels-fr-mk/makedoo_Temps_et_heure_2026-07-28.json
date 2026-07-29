@@ -1,0 +1,250 @@
+{
+  "id": 1785252676165,
+  "name": "Temps et heure",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 40,
+  "exchanges": [
+    {
+      "original": "Le temps — L'heure",
+      "translated": "Време — Час",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle heure est-il?",
+      "translated": "Колку е часот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est une heure",
+      "translated": "Еден часот е",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est deux heures",
+      "translated": "Два часот е",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est trois heures et cinq minutes",
+      "translated": "Тоа е три и пет минути",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est dix heures et quart",
+      "translated": "Десет е и петнаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est dix heures et demi",
+      "translated": "10:30 е",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est onze heures moins le quart",
+      "translated": "Единаесет е четвртина без.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est onze heures vingt",
+      "translated": "Единаесет е дваесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est midi",
+      "translated": "Пладне е",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est minuit",
+      "translated": "полноќ е",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le train part à 16 heures",
+      "translated": "Возот тргнува во 16 часот.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pendant",
+      "translated": "за време на",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "matin",
+      "translated": "Утро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "avant-hier",
+      "translated": "завчера",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "nuit",
+      "translated": "ноќ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "aujourd'hui",
+      "translated": "Денес",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "hier",
+      "translated": "вчера",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "le soir",
+      "translated": "Вечерта",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "après-midi",
+      "translated": "попладне",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "avant-midi",
+      "translated": "утро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "le matin",
+      "translated": "Утрото",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "heure",
+      "translated": "час",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "minute",
+      "translated": "минута",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "seconde",
+      "translated": "втор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tôt",
+      "translated": "рано",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tard",
+      "translated": "доцна",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "jour",
+      "translated": "ден",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure vous levez-vous?",
+      "translated": "Во колку часот стануваш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je me lève à six heure",
+      "translated": "Станувам во шест часот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure voulez-vous qu'on vous téléphone?",
+      "translated": "Во кое време сакате да ве повикаме?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A sept heures",
+      "translated": "Во седум часот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle heure avez-vous?",
+      "translated": "Колку време имате?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai douze heures",
+      "translated": "Имам дванаесет часа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ma montre s'est arrêtée",
+      "translated": "Мојот часовник застана",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ma montre avance de cinq minutes",
+      "translated": "Мојот часовник е пет минути брз",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai oublié de remonter ma montre",
+      "translated": "Заборавив да го навивам часовникот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ma montre ne marche pas bien",
+      "translated": "Мојот часовник не работи правилно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dites-moi l'heure exacte, s'il vous plaît!",
+      "translated": "Те молам кажи ми точно време!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il est exactement dix-sept heures",
+      "translated": "Точно е 17 часот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

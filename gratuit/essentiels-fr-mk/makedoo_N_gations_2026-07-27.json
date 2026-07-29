@@ -1,0 +1,142 @@
+{
+  "id": 1785184992818,
+  "name": "Négations",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 22,
+  "exchanges": [
+    {
+      "original": "Négation, refus",
+      "translated": "Негација, одбивање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Non",
+      "translated": "Не",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ne ... pas (+ verbe)",
+      "translated": "Не... (+ глагол)",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il ne faut pas",
+      "translated": "Не смееме",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne sais pas",
+      "translated": "Не знам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne veux pas",
+      "translated": "Не сакам да",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Aucunement non",
+      "translated": "Воопшто не.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Jamais",
+      "translated": "Никогаш",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Rien",
+      "translated": "Ништо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne bois jamais d'eau-de-vie",
+      "translated": "Никогаш не пијам ракија",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne comprends pas",
+      "translated": "Не разбирам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Nulle part",
+      "translated": "Никаде",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Impossible",
+      "translated": "Невозможно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ce n'est pas vrai",
+      "translated": "Тоа не е вистина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne le crois pas",
+      "translated": "Не верувам.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Cela ne m'intéresse pas",
+      "translated": "Не сум заинтересиран",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne permets pas",
+      "translated": "Не дозволувам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il n'y a personne",
+      "translated": "Нема никој",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je n'ai pas le temps",
+      "translated": "Немам време",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne connais personne dans cette ville",
+      "translated": "Не познавам никого во овој град.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne viens pas",
+      "translated": "Јас не доаѓам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne peux pas",
+      "translated": "Не можам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
