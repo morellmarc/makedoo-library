@@ -1,0 +1,280 @@
+{
+  "id": 1785272309648,
+  "name": "Chambre",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 45,
+  "exchanges": [
+    {
+      "original": "La chambre et le service",
+      "translated": "Собата и услугата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Appelez la femme de chambre!",
+      "translated": "Јави се на собарката!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Veuillez nettoyer la chambre et la salle de bains!",
+      "translated": "Ве молам исчистете ја спалната соба и бањата!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voulez-vous me donner une nouvelle serviette de toilette?",
+      "translated": "Дали би сакале да ми дадете нова крпа за бањање?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Apportez-moi deux draps, un oreiller et une couverture!",
+      "translated": "Донесете ми два чаршафи, перница и ќебе!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Réveillez-moi à cinq heures!",
+      "translated": "Разбуди ме во пет часот!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il fait trop chaud (froid) dans la chambre",
+      "translated": "Премногу е топло (ладно) во собата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le radiateur ne chauffe pas",
+      "translated": "Радијаторот не се загрева",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est le bouton d'appel?",
+      "translated": "Каде е копчето за повик?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure est le petit déjeuner (le déjeuner, le dîner)?",
+      "translated": "Во колку часот е појадокот (ручек, вечера)?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que j'ai du courrier?",
+      "translated": "Дали имам некаква пошта?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est-ce que je peux faire (nettoyer) laver quelque chose?",
+      "translated": "Каде можам да најдам нешто исчистено или измијам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quand est-ce qu'on me rend le linge?",
+      "translated": "Кога ќе ми биде вратена облеката за перење?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je pars demain à ... heures",
+      "translated": "Заминувам утре во ... часот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Réveillez-moi à ... heures!",
+      "translated": "Разбуди ме во ... часот!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Faites apporter les bagages à la voiture, s'il vous plaît!",
+      "translated": "Ве молиме, донесете го багажот до автомобилот!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "La note, s'il vous plaît!",
+      "translated": "Сметката, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais payer",
+      "translated": "Би сакал/а да платам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bureau",
+      "translated": "биро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "galerie",
+      "translated": "галерија",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "hall",
+      "translated": "лоби",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vestibule",
+      "translated": "трем",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "salon",
+      "translated": "дневна соба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sale de fête",
+      "translated": "соба за забави",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ascenseur",
+      "translated": "лифт",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bidet",
+      "translated": "биде",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "escalier",
+      "translated": "скали",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rideau",
+      "translated": "rideau",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fauteuil",
+      "translated": "фотелја",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "radiateur",
+      "translated": "радијатор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cheminée",
+      "translated": "оџак",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chaise",
+      "translated": "стол",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "robinet",
+      "translated": "чешма",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "lit",
+      "translated": "кревет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fenêtre",
+      "translated": "прозорец",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "oreiller",
+      "translated": "перница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "drap",
+      "translated": "лист",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "placard",
+      "translated": "плакар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "table",
+      "translated": "маса",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "armoire",
+      "translated": "плакар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "garçon",
+      "translated": "момче",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cuisinier",
+      "translated": "да готви",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "femme de chambre",
+      "translated": "слугинка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "portier",
+      "translated": "носач",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chef",
+      "translated": "шеф",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

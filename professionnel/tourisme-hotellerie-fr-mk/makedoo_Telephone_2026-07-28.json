@@ -1,0 +1,190 @@
+{
+  "id": 1785271151581,
+  "name": "Telephone",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 30,
+  "exchanges": [
+    {
+      "original": "Le téléphone (à la poste)",
+      "translated": "Телефонот (во поштата)",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais téléphoner à mes amis",
+      "translated": "Би сакал/а да ги повикам моите пријатели",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi le numéro",
+      "translated": "Дај ми го бројот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne l'ai pas",
+      "translated": "Јас го немам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous un annuaire de téléphone?",
+      "translated": "Дали имате телефонски именик?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bien sûr",
+      "translated": "Секако",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voici le numéro",
+      "translated": "Еве го бројот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Entrez dans la cabine téléphonique et choisissez le numéro!",
+      "translated": "Влезете во телефонската говорница и изберете го бројот!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le central est automatique",
+      "translated": "Централната единица е автоматска",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est bien le numéro 81 07 30?",
+      "translated": "Дали овој број е 81 07 30?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui",
+      "translated": "Да",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désir parler à monsieur Martin",
+      "translated": "Би сакал/а да разговарам со г-дин Мартин",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est de la part de qui?",
+      "translated": "Од кого е ова?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Metodi",
+      "translated": "Методи",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ne quittez pas, je vous prie",
+      "translated": "Ве молам, не спуштајте слушалка.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ne coupez pas!",
+      "translated": "Не сечете!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui est à l'appareil?",
+      "translated": "Кој е ова?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ici Metodi",
+      "translated": "Еве Методи",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est bien vous Metodi?",
+      "translated": "Ти ли си тоа, Методи?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Parlez plus haut, s'il vous plaît!",
+      "translated": "Зборувај, те молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne vous entends pas",
+      "translated": "Не можам да те слушнам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ça va mieux maintenant",
+      "translated": "Сега е подобро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "D'où téléphonez-vous?",
+      "translated": "Од каде се јавуваш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "De la Poste",
+      "translated": "Од поштата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Attendez-moi dans le hall, je viens vous chercher tout de suite!",
+      "translated": "Чекај ме во ходник, ќе дојдам по тебе веднаш!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "écouteur",
+      "translated": "слушалка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "accrocher",
+      "translated": "виси",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "décrocher",
+      "translated": "подигни",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "racrocher",
+      "translated": "спушти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "choisir",
+      "translated": "избира",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
