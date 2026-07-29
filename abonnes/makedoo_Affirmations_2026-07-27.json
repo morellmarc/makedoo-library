@@ -1,0 +1,148 @@
+{
+  "id": 1785182073154,
+  "name": "Affirmations",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 23,
+  "exchanges": [
+    {
+      "original": "Affirmation, consentement et remerciement",
+      "translated": "Афирмација, согласност и благодарност",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui",
+      "translated": "Да",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Assurément",
+      "translated": "Секако",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "D'accord!",
+      "translated": "Во ред!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Naturellement",
+      "translated": "Природно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Entendu!",
+      "translated": "Слушнав!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Sans doute",
+      "translated": "Веројатно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Volontier",
+      "translated": "Со задоволство",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis sûr",
+      "translated": "Сигурен сум",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vous comprends",
+      "translated": "Те разбирам.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci",
+      "translated": "БЛАГОДАРАМ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci beaucoup, monsieur",
+      "translated": "Ви благодарам многу, господине.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Permettez-moi de vous remercier",
+      "translated": "Дозволете ми да ви се заблагодарам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vous suis très reconnaissant",
+      "translated": "Многу ти должам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci, merci beaucoup",
+      "translated": "Ви благодарам, ви благодарам многу",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous êtes très aimable",
+      "translated": "Ти си многу љубезен/а.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il n'y a pas de quoi",
+      "translated": "Нема проблем.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "De rien",
+      "translated": "Не беше ништо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est très aimable de votre part",
+      "translated": "Тоа е многу љубезно од тебе.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis tout à fait à votre disposition",
+      "translated": "Целосно ви стојам на располагање.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est juste",
+      "translated": "Точно така",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avec plaisir",
+      "translated": "Мое задоволство",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Parfaitement",
+      "translated": "Совршено",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": 1785186820410,
+  "name": "Nombres cardinaux",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 48,
+  "exchanges": [
+    {
+      "original": "Nombres cardinaux",
+      "translated": "Кардинални броеви",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "un, une",
+      "translated": "еден, еден",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "deux",
+      "translated": "два",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trois",
+      "translated": "три",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatre",
+      "translated": "четири",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cinq",
+      "translated": "пет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "six",
+      "translated": "шест",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sept",
+      "translated": "седум",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "huit",
+      "translated": "осум",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "neuf",
+      "translated": "девет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix",
+      "translated": "десет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "onze",
+      "translated": "единаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "douze",
+      "translated": "дванаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "treize",
+      "translated": "тринаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatorze",
+      "translated": "четиринаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quinze",
+      "translated": "петнаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "seize",
+      "translated": "шеснаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix-sept",
+      "translated": "седумнаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix-huit",
+      "translated": "осумнаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix-neuf",
+      "translated": "деветнаесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vingt",
+      "translated": "дваесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vingt et un",
+      "translated": "дваесет и еден",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vingt-deux",
+      "translated": "дваесет и два",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trente",
+      "translated": "триесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quarante",
+      "translated": "четириесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cinquante",
+      "translated": "педесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soixante",
+      "translated": "шеесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soixante-dix",
+      "translated": "седумдесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatre-vingt",
+      "translated": "осумдесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatre-vingt-dix",
+      "translated": "деведесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cent",
+      "translated": "сто",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cent dix",
+      "translated": "сто и десет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "deux cents",
+      "translated": "двесте",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trois cents",
+      "translated": "триста",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatre cents",
+      "translated": "четиристотини",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cinq cents",
+      "translated": "петстотини",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "six cents",
+      "translated": "шестотини",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sept cents",
+      "translated": "седумстотини",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "huit cents",
+      "translated": "осумстотини",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "neuf cents",
+      "translated": "деветстотини",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "mille",
+      "translated": "илјада",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "deux mille",
+      "translated": "две илјади",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cinq mille",
+      "translated": "пет илјади",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix mille",
+      "translated": "десет илјади",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cent mille",
+      "translated": "сто илјади",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "un million",
+      "translated": "еден милион",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "un milliard",
+      "translated": "една милијарда",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "zéro",
+      "translated": "нула",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

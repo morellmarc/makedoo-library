@@ -1,0 +1,238 @@
+{
+  "id": 1785243402903,
+  "name": "Nombres ordinnaux",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 38,
+  "exchanges": [
+    {
+      "original": "Nombres ordinaux",
+      "translated": "Редни броеви",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "premier, première",
+      "translated": "прво, прво",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "deuxième, second, e",
+      "translated": "втора, втора, е",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "troisième",
+      "translated": "трет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatrième",
+      "translated": "четвртиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cinquième",
+      "translated": "петти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sixième",
+      "translated": "шести",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "septième",
+      "translated": "седмиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "huitième",
+      "translated": "осмиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "neuvième",
+      "translated": "деветти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dixième",
+      "translated": "десетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "onzième",
+      "translated": "единаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "douzième",
+      "translated": "дванаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "treizième",
+      "translated": "тринаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatorzième",
+      "translated": "четиринаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quinzième",
+      "translated": "петнаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "seizième",
+      "translated": "шеснаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix-septième",
+      "translated": "седумнаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix-huitième",
+      "translated": "осумнаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dix-neuvième",
+      "translated": "деветнаесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vingtième",
+      "translated": "дваесеттиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vingt premier",
+      "translated": "првите дваесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vingt deuxième",
+      "translated": "дваесет и втор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vingt troisième",
+      "translated": "дваесет и третиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trentième",
+      "translated": "триесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trente premier",
+      "translated": "првите триесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trent quatrième",
+      "translated": "триесет и четврти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quarantième",
+      "translated": "четириесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quarante cinquième",
+      "translated": "четириесет и петти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cinquantième",
+      "translated": "педесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cinquante sixième",
+      "translated": "педесет и шестиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soixantième",
+      "translated": "шеесеттиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soixante septième",
+      "translated": "шеесет и седми",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soixante dixième",
+      "translated": "седумдесет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatre-vingtième",
+      "translated": "осумдесетти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quatre-vingt dixième",
+      "translated": "деведесеттиот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "centième",
+      "translated": "стоти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "millième",
+      "translated": "илјадити",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

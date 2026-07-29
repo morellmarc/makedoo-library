@@ -1,0 +1,268 @@
+{
+  "id": 1785252927321,
+  "name": "Calendrier",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 43,
+  "exchanges": [
+    {
+      "original": "Calendrier",
+      "translated": "Календар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Lundi",
+      "translated": "Понеделник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mardi",
+      "translated": "Вторник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mercredi",
+      "translated": "Среда",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Jeudi",
+      "translated": "ЧЕТВРТОК",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vendredi",
+      "translated": "петок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Samedi",
+      "translated": "САБОТА",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dimanche",
+      "translated": "Недела",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Janvier",
+      "translated": "јануари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Février",
+      "translated": "ФЕВРУАРИ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mars",
+      "translated": "март",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avril",
+      "translated": "април",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mai",
+      "translated": "мај",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Juin",
+      "translated": "Јуни",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Juillet",
+      "translated": "Јули",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Août",
+      "translated": "август",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Septembre",
+      "translated": "Септември",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Octobre",
+      "translated": "Октомври",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Novembre",
+      "translated": "ноември",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Décembre",
+      "translated": "Декември",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Printemps",
+      "translated": "Пролет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Été",
+      "translated": "Лето",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Automne",
+      "translated": "Есен",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Hiver",
+      "translated": "Зима",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Au printemps",
+      "translated": "Во пролет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "En été",
+      "translated": "Во лето",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "En automne",
+      "translated": "На есен",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "En hiver",
+      "translated": "Во зима",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'année prochaine",
+      "translated": "Следната година",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Cette année",
+      "translated": "Оваа година",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'année passée",
+      "translated": "Минатата година",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle jour est-ce aujourd'hui?",
+      "translated": "Кој ден е денес?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Aujourd'hui c'est jeudi, le huit août",
+      "translated": "Денес е четврток, 8 август",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je n'ai pas le temps",
+      "translated": "Немам време",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai le temps",
+      "translated": "Имам време",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il y a aujourd'hui cinq jours",
+      "translated": "Пред пет дена",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dans deux semaines",
+      "translated": "За две недели",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où passerez-vous vos vacances d'été?",
+      "translated": "Каде ќе го поминете летниот одмор?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je partirai cette semaine pour la France (Allemagne, Angleterre)",
+      "translated": "Оваа недела ќе заминам за Франција (Германија, Англија)",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Et vous?",
+      "translated": "А ти?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Depuis quand ...?",
+      "translated": "Од кога...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Depuis combien de temps habitez-vous Skopje?",
+      "translated": "Колку долго живееш во Скопје?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'habite Skopje depuis 1981",
+      "translated": "Живеам во Скопје од 1981 година.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

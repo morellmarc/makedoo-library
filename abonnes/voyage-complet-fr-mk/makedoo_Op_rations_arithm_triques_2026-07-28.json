@@ -1,0 +1,70 @@
+{
+  "id": 1785252185946,
+  "name": "Opérations arithmétriques",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 10,
+  "exchanges": [
+    {
+      "original": "Opérations arithmétiques",
+      "translated": "Аритметички операции",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien font un et deux?",
+      "translated": "Колку е еден плус два?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Un et deux font trois",
+      "translated": "Еден и два прават три",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien font cinq et cent?",
+      "translated": "Колку е пет и сто?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Cinq et cent font cent cinq",
+      "translated": "Пет плус сто прават сто и пет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien font dix moins quatre?",
+      "translated": "Колку е десет минус четири?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dix moins quatre font six",
+      "translated": "Десет минус четири прави шест",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien font douze divisé par trois?",
+      "translated": "Колку е дванаесет поделено со три?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien font trois fois trois",
+      "translated": "Колку е три пати три?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Trois fois trois font neuf",
+      "translated": "Три пати три прави девет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

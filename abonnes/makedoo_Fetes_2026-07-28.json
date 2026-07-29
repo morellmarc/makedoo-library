@@ -1,0 +1,94 @@
+{
+  "id": 1785267968672,
+  "name": "Fetes",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 14,
+  "exchanges": [
+    {
+      "original": "Les jours de fêtes",
+      "translated": "Празници",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le jour de l'an",
+      "translated": "Нова Година",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Noël",
+      "translated": "Божиќ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pâques",
+      "translated": "Велигден",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'Ascension",
+      "translated": "Искачувањето",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'Assomption",
+      "translated": "Успението",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'Annonciation",
+      "translated": "Благовештение",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le jour des morts",
+      "translated": "Ден на мртвите",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le Premier Mai",
+      "translated": "Први мај",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le jour de la Victoire",
+      "translated": "Ден на победата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Une bonne fête!",
+      "translated": "Имајте одлична забава!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonne Année!",
+      "translated": "Добра година!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vous souhaite une heureuse Nouvelle année",
+      "translated": "Ти посакувам среќна Нова Година",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Joyeux Noël!",
+      "translated": "Среќен Божиќ!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1785186302345,
+  "name": "Surprise",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 16,
+  "exchanges": [
+    {
+      "original": "Expressions de surprise",
+      "translated": "Изрази на изненадување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Comment?",
+      "translated": "Како?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quoi?",
+      "translated": "Што?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Sans blague!",
+      "translated": "Не се шегувам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle blague!",
+      "translated": "Каква шега!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle surprise!",
+      "translated": "Какво изненадување!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est à peine croyable",
+      "translated": "Едвај е за верување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est invraisemblable",
+      "translated": "Тоа е неверојатно.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "En vérité",
+      "translated": "Всушност",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est très étrange",
+      "translated": "Тоа е многу чудно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est inouï",
+      "translated": "Тоа е неверојатно!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce possible?",
+      "translated": "Дали е можно?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est impossible",
+      "translated": "Тоа е невозможно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Cela me surprend",
+      "translated": "Тоа ме изненадува",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Cela ne se peut pas",
+      "translated": "Тоа не е можно.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui l'aurait cru?",
+      "translated": "Кој би помислил?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

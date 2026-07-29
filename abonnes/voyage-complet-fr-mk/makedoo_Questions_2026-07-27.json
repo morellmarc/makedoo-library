@@ -1,0 +1,274 @@
+{
+  "id": 1785186027411,
+  "name": "Questions",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 44,
+  "exchanges": [
+    {
+      "original": "Questions et informations",
+      "translated": "Прашања и информации",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quoi?",
+      "translated": "Што?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce que c'est?",
+      "translated": "Што е ова?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce qu'il a dit?",
+      "translated": "Што рече тој?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce que s'est passé",
+      "translated": "Што се случи",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce qu'il y a?",
+      "translated": "Што е тоа?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Que veut dire?",
+      "translated": "Што значи тоа?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce que vous dites",
+      "translated": "Што велиш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quoi de nouveau?",
+      "translated": "Што е ново?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Que désirez-vous?",
+      "translated": "Што би сакале?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'y a-t-il pour votre service?",
+      "translated": "Што можам да направам за тебе?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quoi cela sert-il?",
+      "translated": "Која е целта на ова?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "De quoi parlez-vous?",
+      "translated": "За што зборуваш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui?",
+      "translated": "СЗО?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui est-ce?",
+      "translated": "Кој е тоа?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui êtes-vous?",
+      "translated": "Кој си ти?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui est-ce qui est venu chez vous?",
+      "translated": "Кој дојде во твојата куќа?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui vous l'a dit?",
+      "translated": "Кој ти го кажа тоа?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A qui dois-je m'adresser?",
+      "translated": "Кого треба да контактирам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "De qui parlez-vous?",
+      "translated": "За кого зборуваш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que c'est ...?",
+      "translated": "Дали ова...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Y a-t-il quelqu'un qui comprenne le français (l'allemand, l'anglais)?",
+      "translated": "Дали има некој што разбира француски (германски, англиски)?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Me comprenez-vous?",
+      "translated": "Ме разбираш ли?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pouvez-vous me dire?",
+      "translated": "Можете ли да ми кажете?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Connaissez-vous?",
+      "translated": "Дали знаеш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où?",
+      "translated": "Или?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est ...?",
+      "translated": "Запад...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où sont ...?",
+      "translated": "Каде се...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où demeurez-vous?",
+      "translated": "Каде живееш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où êtes-vous?",
+      "translated": "Каде си?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où allez-vous?",
+      "translated": "Каде одиш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où voulez-vous aller?",
+      "translated": "Каде сакаш да одиш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où ce chemin mène-t-il?",
+      "translated": "Каде води овој пат?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "D'où venez-vous?",
+      "translated": "D'où venez-vous?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quand?",
+      "translated": "Кога?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quand sera-t-on à ...?",
+      "translated": "Кога ќе бидеме на...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Comment prononcez-vous ce mot?",
+      "translated": "Како го изговарате овој збор?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Comment?",
+      "translated": "Како?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Comment s'appelle-t-on cela en macédonien (français, allemand, anglais)?",
+      "translated": "Како се вика ова на македонски (француски, германски, англиски)?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien?",
+      "translated": "Колку?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien coûte ...?",
+      "translated": "Колку чини...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pourquoi?",
+      "translated": "За што?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel? (Quelle?)",
+      "translated": "Кој? (Кој?)",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle heure est-il?",
+      "translated": "Колку е часот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": 1785180348234,
+  "name": "Formules de politesse",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 35,
+  "exchanges": [
+    {
+      "original": "Emploi des titres",
+      "translated": "Употреба на титули",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Monsieur!",
+      "translated": "Господине!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Madame!",
+      "translated": "Госпоѓо!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mademoiselle!",
+      "translated": "Госпоѓице!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Medames et Messieurs!",
+      "translated": "Дами и господа!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Chers amis!",
+      "translated": "Драги пријатели!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Monsieur le directeur!",
+      "translated": "Господине директоре!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Monsieur le docteur!",
+      "translated": "Докторе!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui, monsieur!",
+      "translated": "Да, господине!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui, madame!",
+      "translated": "Да, госпоѓо!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Non, monsieur!",
+      "translated": "Не, господине!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Non, madame!",
+      "translated": "Не, госпоѓо!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Formules de politesse",
+      "translated": "Учтиви формули",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour",
+      "translated": "Добро утро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour",
+      "translated": "Добро утро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonsoir",
+      "translated": "Добра вечер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonne nuit",
+      "translated": "Добра ноќ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Adieu",
+      "translated": "Збогум",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Au revoir",
+      "translated": "Чао",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A bientôt",
+      "translated": "Се гледаме наскоро",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Que je suis heureux de vous voir!",
+      "translated": "Многу ми е мило што те гледам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Comment allez-vous?",
+      "translated": "Како си?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci, je vais bien",
+      "translated": "Ви благодарам, добро сум.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Et vous?",
+      "translated": "А ти?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonne Année!",
+      "translated": "Добра година!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonne anniversaire!",
+      "translated": "Среќен роденден!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bon voyage!",
+      "translated": "Имајте добар пат!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bienvenu!",
+      "translated": "Добредојде!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci beaucoup!",
+      "translated": "Ви благодарам многу!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vous prie!",
+      "translated": "Ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Salut!",
+      "translated": "Здраво!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mes amitiés chez vous!",
+      "translated": "Моите најдобри поздрави до вас!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mes meilleurs souvenirs à ...",
+      "translated": "Моите најубави спомени се од...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mon bon souvenir à votre épouse",
+      "translated": "Моите најдобри поздрави до твојата сопруга",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Merci beaucoup, je n'oublierai pas",
+      "translated": "Ви благодарам многу, нема да заборавам.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
