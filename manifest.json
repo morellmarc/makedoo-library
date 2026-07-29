@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-29",
+  "packs": [
+    {
+      "id": "essentiels-fr-mk",
+      "tier": "gratuit",
+      "name": "Essentiels du voyage",
+      "description": "Thèmes de base pour bien démarrer : salutations, nombres, temps...",
+      "langPair": "fr-mk",
+      "path": "gratuit/essentiels-fr-mk",
+      "sessions": [
+        "01-salutations.json",
+        "02-nombres.json",
+        "03-temps.json",
+        "04-se-reperer.json",
+        "05-politesse.json"
+      ]
+    },
+    {
+      "id": "voyage-complet-fr-mk",
+      "tier": "abonnes",
+      "name": "Voyage complet",
+      "description": "Tous les thèmes du voyageur : restaurant, transport, shopping, urgences...",
+      "langPair": "fr-mk",
+      "path": "abonnes/voyage-complet-fr-mk",
+      "sessions": []
+    },
+    {
+      "id": "tourisme-hotellerie-fr-mk",
+      "tier": "professionnel",
+      "name": "Tourisme & Hôtellerie",
+      "description": "Pack professionnel pour le personnel de l'hôtellerie et du tourisme.",
+      "langPair": "fr-mk",
+      "price": "9.90",
+      "path": "professionnel/tourisme-hotellerie-fr-mk",
+      "sessions": []
+    }
+  ]
+}
