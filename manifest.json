@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-29",
+  "packs": [
+    {
+      "id": "essentiels-fr-mk",
+      "tier": "gratuit",
+      "name": "Essentiels du voyage",
+      "description": "Thèmes de base pour bien démarrer : politesse, affirmations, négations, temps, locutions usuelles.",
+      "langPair": "fr-mk",
+      "path": "gratuit/essentiels-fr-mk",
+      "sessions": [
+        "makedoo_Formules_de_politesse_2026-07-27.json",
+        "makedoo_Affirmations_2026-07-27.json",
+        "makedoo_N_gations_2026-07-27.json",
+        "makedoo_Locutions_usuelles_2026-07-27.json",
+        "makedoo_Temps_et_heure_2026-07-28.json"
+      ]
+    },
+    {
+      "id": "voyage-complet-fr-mk",
+      "tier": "abonnes",
+      "name": "Voyage complet",
+      "description": "Tous les thèmes du voyageur : banque, calendrier, demandes, fêtes, joie, météo, nombres, opérations, poids et mesures, questions, surprise, et plus.",
+      "langPair": "fr-mk",
+      "path": "abonnes/voyage-complet-fr-mk",
+      "sessions": [
+        "makedoo_Affirmations_2026-07-27.json",
+        "makedoo_Banque_2026-07-28.json",
+        "makedoo_Calendrier_2026-07-28.json",
+        "makedoo_Demandes_2026-07-27.json",
+        "makedoo_Fetes_2026-07-28.json",
+        "makedoo_Formules_de_politesse_2026-07-27.json",
+        "makedoo_Joie_2026-07-27.json",
+        "makedoo_Locutions_usuelles_2026-07-27.json",
+        "makedoo_Meteo_2026-07-28.json",
+        "makedoo_N_gations_2026-07-27.json",
+        "makedoo_Nombres_cardinaux_2026-07-27.json",
+        "makedoo_Nombres_ordinaux_2026-07-28.json",
+        "makedoo_Op_rations_arithm_triques_2026-07-28.json",
+        "makedoo_Poids_et_mesures_2026-07-28.json",
+        "makedoo_Questions_2026-07-27.json",
+        "makedoo_Surprise_2026-07-27.json",
+        "makedoo_Temps_et_heure_2026-07-28.json"
+      ]
+    },
+    {
+      "id": "tourisme-hotellerie-fr-mk",
+      "tier": "professionnel",
+      "name": "Tourisme & Hôtellerie",
+      "description": "Pack professionnel pour le personnel de l'hôtellerie et du tourisme : avion, chambre, douane, hôtel, poste, téléphone, train.",
+      "langPair": "fr-mk",
+      "price": "9.90",
+      "path": "professionnel/tourisme-hotellerie-fr-mk",
+      "sessions": [
+        "makedoo_Avion_2026-07-28.json",
+        "makedoo_Chambre_2026-07-28.json",
+        "makedoo_Douane_2026-07-28.json",
+        "makedoo_Hotel_2026-07-28.json",
+        "makedoo_Poste_2026-07-28.json",
+        "makedoo_Telephone_2026-07-28.json",
+        "makedoo_Train_2026-07-28.json"
+      ]
+    }
+  ]
+}
