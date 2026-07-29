@@ -1,0 +1,208 @@
+{
+  "id": 1785352780397,
+  "name": "Bijouterie",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 33,
+  "exchanges": [
+    {
+      "original": "Chez le bijoutier",
+      "translated": "Во златарницата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais acheter une bague",
+      "translated": "Сакам да купам прстен",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Cette chaîne d'or me plaît beaucoup",
+      "translated": "Навистина ми се допаѓа овој златен ланец",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des colliers de perles?",
+      "translated": "Дали имате ѓердани од бисери?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire acheter un bracelet",
+      "translated": "Сакам да купам нараквица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Montrez-moi des boucles!",
+      "translated": "Покажи ми неколку кадрици!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Montrez-moi quelque chose de moins cher!",
+      "translated": "Покажи ми нешто поевтино!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel est le prix de cette broche?",
+      "translated": "Која е цената на оваа брошка?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne vous la recommande pas, c'est une imitation",
+      "translated": "Не го препорачувам, фалсификат е.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais acheter une chaîne de montre",
+      "translated": "Сакам да купам синџир за часовници",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Faites-moi voir ces bagues pour dame!",
+      "translated": "Дај ми да ги видам тие женски прстени!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "De combien de carats est cette bague?",
+      "translated": "Колку карати е овој прстен?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Elle est très jolie",
+      "translated": "Таа е многу убава",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "diamand",
+      "translated": "дијамант",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "brillant",
+      "translated": "светло",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "or",
+      "translated": "злато",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "argent",
+      "translated": "пари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bague",
+      "translated": "прстен",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "alliance",
+      "translated": "сојуз",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bracelet",
+      "translated": "нараквица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "broche",
+      "translated": "игла",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pendeloque",
+      "translated": "приврзок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "boucles",
+      "translated": "јамки",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "boutons de manchettes",
+      "translated": "манжетни",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rubis",
+      "translated": "рубин",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "émeraude",
+      "translated": "смарагд",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "topaze",
+      "translated": "топаз",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pierre précieuse",
+      "translated": "скапоцен камен",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "platine",
+      "translated": "платина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "métaux précieux",
+      "translated": "скапоцени метали",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "graver",
+      "translated": "гравира",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "initiales",
+      "translated": "иницијали",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "parure",
+      "translated": "накит",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

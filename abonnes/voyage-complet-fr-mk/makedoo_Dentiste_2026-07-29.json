@@ -1,0 +1,136 @@
+{
+  "id": 1785345141321,
+  "name": "Dentiste",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 21,
+  "exchanges": [
+    {
+      "original": "Chez le dentiste",
+      "translated": "Кај стоматологот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour, docteur!",
+      "translated": "Здраво, докторе!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai mal aux dents",
+      "translated": "ме боли заб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Asseyez-vous!",
+      "translated": "Седни!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ouvrez la bouche!",
+      "translated": "Отвори ја устата!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "N'ayez pas peur!",
+      "translated": "Не плаши се!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce qu'on peut mettre un plombage sur la dent?",
+      "translated": "Може ли да се стави пломба во забот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce qu'il faut arracher la dent?",
+      "translated": "Дали треба да се извади забот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avec anesthésie, s'il vous plaît!",
+      "translated": "Со анестезија, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ne fermez pas la bouche!",
+      "translated": "Не ја затворај устата!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je dois vous faire arracher la dent",
+      "translated": "Треба да ти го извадам забот.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il ne faut pas manger pendant deux heures",
+      "translated": "Не треба да јадете два часа.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quand est-ce que je dois venir?",
+      "translated": "Кога треба да дојдам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Après demain",
+      "translated": "Задутре",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien je vous dois?",
+      "translated": "Колку ти должам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "couronne",
+      "translated": "круна",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pont",
+      "translated": "мост",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dentier",
+      "translated": "протеза",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "carie",
+      "translated": "распаѓање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "aphte",
+      "translated": "афти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dent",
+      "translated": "заб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": 1785345709122,
+  "name": "Boucherie",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 27,
+  "exchanges": [
+    {
+      "original": "A la boucherie",
+      "translated": "Во месарницата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous de la viande de porc?",
+      "translated": "Дали имате свинско месо?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais un kilo",
+      "translated": "Би сакал/а еден килограм",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire un kilo de bœuf et une livre de veau",
+      "translated": "Би сакал/а еден килограм говедско месо и една фунта телешко месо.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un morceau de deux kilos de porc",
+      "translated": "Дај ми парче свинско месо од два килограми",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Une livre de pâté",
+      "translated": "Една фунта паштета",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Du pâté de porc ou du pâté de foie?",
+      "translated": "Паштета од свинско месо или паштета од црн дроб?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un kilo de jambon!",
+      "translated": "Дај ми килограм шунка!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi une côtelette de porc!",
+      "translated": "Дај ми свински котлет!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des andouilles?",
+      "translated": "Дали имате колбаси?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pesez-moi ce gigot de porc",
+      "translated": "Измери ми го ова свинско бутче",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous de la viande de mouton?",
+      "translated": "Дали имате овчо месо?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Et d'agneau?",
+      "translated": "И јагнешко?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi deux poulets",
+      "translated": "Дај ми две кокошки",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "jambon",
+      "translated": "шунка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "boudin",
+      "translated": "црн пудинг",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "saucisson",
+      "translated": "колбас",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "escalope",
+      "translated": "ескалоп",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gigot",
+      "translated": "нога",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "moutarde",
+      "translated": "сенф",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pâté",
+      "translated": "тесто",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rosbif",
+      "translated": "печено говедско месо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "escargots",
+      "translated": "полжави",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "volaille",
+      "translated": "живина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "écrevisses",
+      "translated": "рак",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "côtelette",
+      "translated": "сечка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "saindoux, graisse",
+      "translated": "свинска маст, маст",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

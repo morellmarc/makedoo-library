@@ -1,0 +1,256 @@
+{
+  "id": 1785355123813,
+  "name": "Accident",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 41,
+  "exchanges": [
+    {
+      "original": "L'accident de la route",
+      "translated": "Сообраќајната несреќа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai dérapé",
+      "translated": "Се лизнав.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai eu un accident",
+      "translated": "Имав несреќа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ma voiture a été abîmée",
+      "translated": "Мојот автомобил беше оштетен",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'accident est dû ...",
+      "translated": "Несреќата била предизвикана од...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis entré en collision",
+      "translated": "Се судрив",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai voulu éviter cette voiture",
+      "translated": "Сакав да го избегнам тој автомобил",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai voulu doubler cette voiture",
+      "translated": "Сакав да го престигнам тој автомобил",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai tenu tout le temps ma droite",
+      "translated": "Цело време се држев од десно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous ne teniez pas votre droite",
+      "translated": "Не се држеше од десната страна",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous avez voulu me doubler",
+      "translated": "Се обиде да ме измамиш",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ne touchez pas l'auto jusqu'à ce que la police arrive!",
+      "translated": "Не го допирајте автомобилот додека не пристигне полицијата!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous une trousse de secours?",
+      "translated": "Дали имате комплет за прва помош?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai besoin d'un pansement",
+      "translated": "Ми треба фластер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où se trouve l'hôpital le plus proche?",
+      "translated": "Каде е најблиската болница?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il faut appeler un médecin",
+      "translated": "Треба да се јавите на лекар.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il faut venir chercher un blessé",
+      "translated": "Треба да дојдеме и да земеме повредено лице.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il faut avertir la police",
+      "translated": "Полицијата треба да биде известена",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qui est le témoin?",
+      "translated": "Кој е сведокот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vos noms et adresse, s'il vous plaît",
+      "translated": "Вашето име и адреса, ве молам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voici ma carte d'identité, mon permis de conduire et ma carte grise",
+      "translated": "Еве ја мојата лична карта, мојата возачка дозвола и мојата регистрација на возилото",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'avais la priorité",
+      "translated": "Имав предност на патот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des papiers?",
+      "translated": "Дали имате некакви документи?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne l'ai pas fait exprès",
+      "translated": "Не го направив тоа намерно.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il allait trop vite, et ses phares m'ont ébloui",
+      "translated": "Одеше пребрзо, а неговите фарови ме заслепија.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il a fait du cent à l'heure",
+      "translated": "Тој се движеше со брзина од 100 километри на час.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai été blessé",
+      "translated": "Бев повреден",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis assuré",
+      "translated": "Јас сум осигуран",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle est votre compagnie d'assurance?",
+      "translated": "Која осигурителна компанија ја користите?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Faites venir un mécanicien",
+      "translated": "Повикајте механичар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "collision",
+      "translated": "судир",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "circulation",
+      "translated": "сообраќај",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chauffeur",
+      "translated": "возач",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "triangle",
+      "translated": "триаголник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cric",
+      "translated": "џек",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "témoin",
+      "translated": "сведок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trace de freinage",
+      "translated": "трага од лизгање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "freiner",
+      "translated": "сопирачка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "police d'assurance",
+      "translated": "полиса за осигурување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "médecin",
+      "translated": "доктор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trousse de secours",
+      "translated": "комплет за прва помош",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

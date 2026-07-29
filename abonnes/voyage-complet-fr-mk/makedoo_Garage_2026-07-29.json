@@ -1,0 +1,382 @@
+{
+  "id": 1785354894111,
+  "name": "Garage",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 62,
+  "exchanges": [
+    {
+      "original": "Garage de réparation",
+      "translated": "Поправка на гаража",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis en panne",
+      "translated": "скршен сум",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pourriez-vous m'indiquer un garage?",
+      "translated": "Можете ли да препорачате гаража?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voulez-vous faire remorquer ma voiture?",
+      "translated": "Дали сакате да ми го одвлечат автомобилот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'assieu est brisé",
+      "translated": "Седиштето е скршено",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le démarreur ne marche pas",
+      "translated": "Стартерот не работи",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "La canalisation d'essence est bouchée",
+      "translated": "Цевката за гориво е блокирана",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je pense que c'est l'embrayage qui ne fonctionne pas",
+      "translated": "Мислам дека спојката е таа што не работи.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le moteur chauffe",
+      "translated": "Моторот се прегрева",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Regardez si le carburateur est bien réglé, s'il vous plaît!",
+      "translated": "Проверете дали карбураторот е правилно подесен!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je crois que les bougies sont encrassées",
+      "translated": "Мислам дека свеќичките се извалкани.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vérifiez-les, s'il vous plaît!",
+      "translated": "Ве молиме проверете ги!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vérifiez les freins aussi!",
+      "translated": "Проверете ги и сопирачките!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des pièces de rechange?",
+      "translated": "Дали имате резервни делови?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "La batterie est à plat",
+      "translated": "Батеријата е празна",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dois-je changer la roue?",
+      "translated": "Дали треба да го сменам тркалото?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Réglez les soupapes et l'allumage!",
+      "translated": "Прилагодете ги вентилите и палењето!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Rechargez la batterie et changez l'huile, s'il vous plaît!",
+      "translated": "Наполнете ја батеријата и сменете го маслото, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quand est-ce que je peux reprendre la voiture?",
+      "translated": "Кога можам да го вратам автомобилот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien je vous dois?",
+      "translated": "Колку ти должам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bloc",
+      "translated": "блок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cylindre",
+      "translated": "цилиндар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dynamo",
+      "translated": "динамо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gicleur",
+      "translated": "млазница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "filtre",
+      "translated": "филтрирано",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "frein à pied",
+      "translated": "ножна сопирачка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "frein à main",
+      "translated": "рачна сопирачка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soupape",
+      "translated": "вентил",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pare-brise",
+      "translated": "шофершајбна",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "embrayage",
+      "translated": "спојка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fusible",
+      "translated": "фитил",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bougie",
+      "translated": "свеќа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "essuie-glace",
+      "translated": "бришач",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "distributeur d'allumage",
+      "translated": "дистрибутер за палење",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "batterie",
+      "translated": "батерија",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "essieu",
+      "translated": "оска",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rétroviseur",
+      "translated": "огледало",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "garde-boue",
+      "translated": "калник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "réservoir à essence",
+      "translated": "резервоар за гориво",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "radiateur",
+      "translated": "радијатор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ventilateur",
+      "translated": "вентилатор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pédale d'embrayage",
+      "translated": "педала на спојката",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "accélérateur",
+      "translated": "забрзувач",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "volant",
+      "translated": "летање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "moteur",
+      "translated": "мотор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "changement de vitesse",
+      "translated": "промена",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "compteur de vitesse",
+      "translated": "брзинометар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "feu de stop",
+      "translated": "стоп-светло",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "avertisseur",
+      "translated": "предупредување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "clignoteur",
+      "translated": "трепкач",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "compteur de kilomètres",
+      "translated": "километража",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "feu de route",
+      "translated": "долго светло",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "feux arrières",
+      "translated": "задни светла",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "feux de position",
+      "translated": "позициски светла",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "échappement",
+      "translated": "издувен систем",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "moteur Diesel",
+      "translated": "дизел мотор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "filtre à air",
+      "translated": "филтер за воздух",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "filtre à huile",
+      "translated": "филтер за масло",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pompe à essence",
+      "translated": "бензинска пумпа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pompe à eau",
+      "translated": "пумпа за вода",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pompe à huile",
+      "translated": "пумпа за масло",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "plaque d'immatriculation",
+      "translated": "регистарска табличка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

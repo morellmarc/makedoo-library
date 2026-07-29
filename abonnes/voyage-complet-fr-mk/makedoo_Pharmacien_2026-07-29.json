@@ -1,0 +1,178 @@
+{
+  "id": 1785345344931,
+  "name": "Pharmacien",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 28,
+  "exchanges": [
+    {
+      "original": "Chez le pharmacien",
+      "translated": "Во аптека",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pourriez-vous m'indiquer une pharmacie?",
+      "translated": "Можете ли да препорачате аптека?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai besoin de médicaments",
+      "translated": "Ми требаат лекови",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour, avez-vous ces médicaments, s'il vous plaît?",
+      "translated": "Здраво, дали ги имате овие лекови, ве молам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voici deux ordonnances",
+      "translated": "Еве два рецепти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis enrhumé",
+      "translated": "Имам настинка.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi quelque chose contre les maux de tête",
+      "translated": "Дај ми нешто за главоболка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai mal au ventre",
+      "translated": "Ме боли стомакот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi quelques choses contre les maux de ventre",
+      "translated": "Дај ми нешто за болки во стомакот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai mal aux oreilles",
+      "translated": "Ме болат ушите",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai mal aux yeux",
+      "translated": "Ме болат очите",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous devez attendre un peu, parce que je dois préparer cette ordonnance",
+      "translated": "Ќе мора да почекаш малку, бидејќи треба да го подготвам овој рецепт.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous quelque chose contre le toux",
+      "translated": "Имате ли нешто за кашлица?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dans combien de temps ce médicament sera-t-il prêt?",
+      "translated": "Колку брзо ќе биде готов овој лек?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mettez ... gouttes dans un verre d'eau",
+      "translated": "Ставете ... капки во чаша вода",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Prenez aussi une tisane!",
+      "translated": "Напиј се и малку билен чај!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "médicament",
+      "translated": "лек",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pillule, comprimé",
+      "translated": "апче, таблета",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "aspirine",
+      "translated": "аспирин",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "calmant, sédatif",
+      "translated": "смирувачки, седатив",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soporifique",
+      "translated": "сопорифичен",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "injection",
+      "translated": "инјекција",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sirop",
+      "translated": "сируп",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gouttes",
+      "translated": "капки",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "antibiotique",
+      "translated": "антибиотик",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "solution",
+      "translated": "решение",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ouate",
+      "translated": "вата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "antipyrétique",
+      "translated": "антипиретик",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": 1785352379597,
+  "name": "Librairie",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 46,
+  "exchanges": [
+    {
+      "original": "Chez le libraire",
+      "translated": "Во книжарницата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous de papier à lettres?",
+      "translated": "Дали имате некаков лист за пишување?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi du papier à lettres et une enveloppe, s'il vous plaît!",
+      "translated": "Дајте ми хартија за пишување и плико, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pouvez-vous me remplir le stylo?",
+      "translated": "Можеш ли да ми го наполниш пенкалото?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien coûte cette machine à écrire?",
+      "translated": "Колку чини оваа машина за пишување?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais cinq stylos à bille",
+      "translated": "Би сакал/а пет хемиски пенкала",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous de la colle?",
+      "translated": "Дали имате лепак?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi une règle, s'il vous plaît!",
+      "translated": "Дај ми правило, те молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai besoin d'un plan de la ville et d'une carte routière",
+      "translated": "Ми треба градска мапа и патна мапа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire du papier à dessin et du papier d'emballage",
+      "translated": "Би сакал/а хартија за цртање и хартија за завиткување.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Montrez-moi ces rechanges pour stylos à bille, s'il vous plaît!",
+      "translated": "Покажете ми ги тие резервни хемиски пенкала, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi des cartes-postales!",
+      "translated": "Дај ми неколку разгледници!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quels timbres faut-il mettre?",
+      "translated": "Кои марки треба да се користат?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vendez-vous des timbres?",
+      "translated": "Дали продавате поштенски марки?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des dictionnaires?",
+      "translated": "Дали имате некои речници?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire un dictionnaire macédonien-français et allemand-macédonien",
+      "translated": "Би сакал/а Македонско-француски и германско-македонски речник.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais aussi un dictionnaire macédonien-anglais",
+      "translated": "Исто така, би сакал Македонско-англиски речник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Montrez-moi les nouveaux guides de voyages, s'il vous plaît!",
+      "translated": "Покажете ми ги новите туристички водичи, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des guides de conversation?",
+      "translated": "Дали имате водичи за разговор?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un manuel de conversation anglais-macédonien!",
+      "translated": "Дајте ми прирачник за англиско-македонски разговор!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quels nouveaux livres avez-vous?",
+      "translated": "Кои нови книги ги имаш?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des romans?",
+      "translated": "Дали имате некои романи?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous un livre de Macédoine en anglais?",
+      "translated": "Дали имате книга за Македонија на англиски јазик?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "De quelle année est cette édition?",
+      "translated": "Од која година е ова издание?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "enveloppe",
+      "translated": "плик",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "crayon",
+      "translated": "молив",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "livre",
+      "translated": "книга",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "timbre",
+      "translated": "печат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "carte postale",
+      "translated": "разгледница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "papier à lettres",
+      "translated": "хартија со букви",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "machine à écrire",
+      "translated": "машина за пишување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "crayon de couleur",
+      "translated": "обоен молив",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "colle",
+      "translated": "лепак",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "stylo à bille",
+      "translated": "хемиско пенкало",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rechange pour un stylo à bille",
+      "translated": "замена за хемиско пенкало",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "agenda",
+      "translated": "дневник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "encre",
+      "translated": "мастило",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dictionnaire",
+      "translated": "речник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "papier à dessin",
+      "translated": "хартија за цртање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "papier d'emballage",
+      "translated": "хартија за завиткување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "plan de la ville",
+      "translated": "градска мапа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "plan des rues",
+      "translated": "улична мапа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "carton",
+      "translated": "картон",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "auteur",
+      "translated": "автор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "guide",
+      "translated": "водич",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "édition",
+      "translated": "издание",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": 1785273251229,
+  "name": "Train",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 44,
+  "exchanges": [
+    {
+      "original": "A la gare",
+      "translated": "На железничката станица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pardon, où est le Bureau de renseignements?",
+      "translated": "Извинете, каде е Информативното биро?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pardon, comment peut-on aller à la gare?",
+      "translated": "Извинете, како можам да стигнам до железничката станица?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Taxi, amenez-moi à la gare",
+      "translated": "Такси, однеси ме до железничката станица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure part le train pour ...?",
+      "translated": "Во колку часот тргнува возот...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Sur quel quai part le train pour ...?",
+      "translated": "Од кој перон тргнува возот за...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où dois-je changer?",
+      "translated": "Каде треба да се сменам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure serons-nous à ...?",
+      "translated": "Во колку часот ќе бидеме...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel est le meilleur itinéraire pour aller à ...?",
+      "translated": "Кој е најдобриот пат за да се стигне до...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quelle heure part le prochain train pour ....?",
+      "translated": "Во колку часот тргнува следниот воз за ....?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce un omnibus ou un express?",
+      "translated": "Дали е тоа локален воз или експресен воз?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est un rapide",
+      "translated": "Тоа е брзо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Sur quelle voie entrera le train?",
+      "translated": "На кој перон ќе влезе возот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où se trouve la caisse?",
+      "translated": "Каде е касата?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vais prendre mon billet",
+      "translated": "Ќе си купам билет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Une première pour l'express de ... heures",
+      "translated": "Првпат за експресниот воз... работно време",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Un aller et retour pour ...?",
+      "translated": "Кружен пат до...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que je peux retenir une place?",
+      "translated": "Може ли да резервирам седиште?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire une place pour le train de ...?",
+      "translated": "Би сакал/а место во возот за...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien de jours le billet de retour est-il valable?",
+      "translated": "Колку дена важи повратниот билет?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un billet pour une couchette",
+      "translated": "Дај ми билет за кревет за спиење",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un ticket de location",
+      "translated": "Дај ми билет за изнајмување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire un billet de week-end",
+      "translated": "Сакам билет за викенд",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que le train a du retard?",
+      "translated": "Дали возот доцни?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui, le train a du retard",
+      "translated": "Да, возот доцни.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je vais acheter mon billet dans le train",
+      "translated": "Ќе купам билет во возот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais prendre un café au wagon-restaurant",
+      "translated": "Би сакал/а да пијам кафе во вагон-ресторанот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pouvez-vous me dire où est la consigne?",
+      "translated": "Можеш ли да ми кажеш каде е шкафчето?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que le train pour ... est en gare?",
+      "translated": "Дали возот за ... е на станицата?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le train est déjà en gare",
+      "translated": "Возот е веќе на станицата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce qu'on arrivera à temps?",
+      "translated": "Ќе стигнеме ли на време?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Porteur, prenez nos valises!",
+      "translated": "Портер, земи ги нашите куфери!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Suivez-moi!",
+      "translated": "Следи ме!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "départ",
+      "translated": "заминување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "arrivée",
+      "translated": "пристигнување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rapide",
+      "translated": "брзо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "express",
+      "translated": "експрес",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bureau de renseignements",
+      "translated": "информативен шалтер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "horaire, indicateur",
+      "translated": "часовен, индикатор",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "valise",
+      "translated": "куфер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "malle",
+      "translated": "багажникот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "salle d'attente",
+      "translated": "ЧЕКАЛНА",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "voiture",
+      "translated": "автомобил",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "voiture-lits",
+      "translated": "вагон за спиење",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

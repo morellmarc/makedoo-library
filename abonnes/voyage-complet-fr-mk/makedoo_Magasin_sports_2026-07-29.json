@@ -1,0 +1,238 @@
+{
+  "id": 1785353426004,
+  "name": "Magasin sports",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 38,
+  "exchanges": [
+    {
+      "original": "Au magasin d'accessoires sportifs",
+      "translated": "Во продавницата за спортски додатоци",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le magasin est ouvert",
+      "translated": "Продавницата е отворена",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des ballons de foot-ball?",
+      "translated": "Дали имате фудбалски топки?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire des raquettes de tennis",
+      "translated": "Би сакал/а неколку тениски рекети",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des raquettes de ping-pong?",
+      "translated": "Дали имате весла за пинг-понг?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Montrez-moi des gants de boxe!",
+      "translated": "Покажи ми неколку боксерски ракавици!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais acheter un caleçon de bain pour mon fils et un maillot de bain pour ma fille",
+      "translated": "Би сакал/а да купам еден пар костим за капење за мојот син и еден костим за капење за мојата ќерка.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des patins à roulettes?",
+      "translated": "Дали имате ролерки?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire des chaussures de sprint",
+      "translated": "Сакам спринт патики",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des fusils?",
+      "translated": "Дали имате пиштоли?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je préfère un fusil à deux coups",
+      "translated": "Претпочитам двоцевна пушка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais acheter des lignes",
+      "translated": "Сакам да купам неколку линии",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "basketball",
+      "translated": "кошарка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "voley-ball",
+      "translated": "одбојка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "handball",
+      "translated": "ракомет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "football",
+      "translated": "фудбал",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ping-pong",
+      "translated": "пинг-понг",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tennis",
+      "translated": "тенис",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "lutte",
+      "translated": "борба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "athlétique",
+      "translated": "атлетски",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gymnastique",
+      "translated": "гимнастика",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "boxe",
+      "translated": "бокс",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "natation",
+      "translated": "пливање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "water-polo",
+      "translated": "ватерполо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "aviron",
+      "translated": "веслање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ski",
+      "translated": "скијање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "patinage",
+      "translated": "лизгање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "hockey",
+      "translated": "хокеј",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "accessoires de bycyclette",
+      "translated": "додатоци за велосипеди",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "poids",
+      "translated": "poids",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fusil de petit calibre",
+      "translated": "пушка од мал калибар",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fusil à deux coups",
+      "translated": "двострелна пушка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chronomètre",
+      "translated": "штоперица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "disque",
+      "translated": "диск",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Fleurot",
+      "translated": "Флерот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "arc",
+      "translated": "лак",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "patins de patinage artistique",
+      "translated": "лизгалки за уметничко лизгање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "échecs de poche",
+      "translated": "џебен шах",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

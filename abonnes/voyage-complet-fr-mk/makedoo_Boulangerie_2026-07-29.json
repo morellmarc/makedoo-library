@@ -1,0 +1,190 @@
+{
+  "id": 1785345521893,
+  "name": "Boulangerie",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 30,
+  "exchanges": [
+    {
+      "original": "A la boulangerie",
+      "translated": "Во пекарницата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour, monsieur!",
+      "translated": "Здраво господине!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous du pain?",
+      "translated": "Дали имате леб?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui, monsieur",
+      "translated": "Да, господине",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je regrette beaucoup, il n'y en a plus",
+      "translated": "Многу ми е жал, нема останато.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il y en aura dans quelques minutes",
+      "translated": "Ќе има некои за неколку минути.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un kilo de pain, s'il vous plaît!",
+      "translated": "Дај ми килограм леб, те молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un demi-pain!",
+      "translated": "Дај ми половина векна леб!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des croissants?",
+      "translated": "Дали имате кроасани?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire du pain bien cuit",
+      "translated": "Сакам добро испечен леб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi deux pains bis et trois pains blancs",
+      "translated": "Дај ми два кафеави леба и три бели леба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Sont-ils frais?",
+      "translated": "Дали се свежи?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Désirez-vous encore quelque chose?",
+      "translated": "Дали ви треба нешто друго?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Deux paquets de biscuits et un baba au rhum",
+      "translated": "Две пакувања бисквити и рум баба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Un kilo de macaroni et deux kilos de farine",
+      "translated": "Еден килограм макарони и два килограми брашно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous du riz?",
+      "translated": "Дали имате ориз?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que c'est tout?",
+      "translated": "Тоа е сè?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Oui, c'est tout",
+      "translated": "Да, тоа е сè",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien je vous dois?",
+      "translated": "Колку ти должам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pain frais",
+      "translated": "свеж леб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "petit pain",
+      "translated": "тркалање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pain bis",
+      "translated": "кафеав леб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pain blanc",
+      "translated": "бел леб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pain rassis",
+      "translated": "бајат леб",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "croissant",
+      "translated": "кроасан",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "biscuit",
+      "translated": "бисквит",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "baba",
+      "translated": "баба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "riz",
+      "translated": "ориз",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "farine",
+      "translated": "брашно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "baguette",
+      "translated": "багет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

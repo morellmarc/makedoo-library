@@ -1,0 +1,190 @@
+{
+  "id": 1785352581064,
+  "name": "Journaux-Tabac",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 30,
+  "exchanges": [
+    {
+      "original": "Chez le marchand de journaux et de tabac",
+      "translated": "На трафиката и тутунската продавница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous la presse du jour?",
+      "translated": "Дали имате денешни весници?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quels quotidiens avez-vous?",
+      "translated": "Какви весници имате?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des périodiques?",
+      "translated": "Дали имате периодични изданија?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des journaux de mode?",
+      "translated": "Дали имате модни списанија?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire des journaux littéraires et des journaux scientifiques",
+      "translated": "Би сакал/а литературни списанија и научни списанија.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Nous avons aussi des hebdomadaires et des revues mensuelles",
+      "translated": "Исто така, имаме неделни весници и месечни списанија.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des journaux du soir?",
+      "translated": "Дали имате вечерни весници?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des journaux étrangers?",
+      "translated": "Дали имате странски весници?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je prends ces journaux",
+      "translated": "Ги земам овие весници",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien vous dois-je?",
+      "translated": "Колку ти должам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Désirez-vous encore quelques choses?",
+      "translated": "Дали ви треба нешто друго?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelles cigarettes avez-vous?",
+      "translated": "Какви цигари имате?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que se sont des cigarettes macédoniennes ou étrangères?",
+      "translated": "Дали се работи за македонски или странски цигари?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce que vous avez comme marques étrangères?",
+      "translated": "Кои странски брендови ги нудите?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais dix paquets de cigarettes macédoniennes et dix paquets de cigarettes allemandes",
+      "translated": "Би сакал десет кутии македонски цигари и десет кутии германски цигари.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi 3 boîtes de cigares et 4 paquets de tabac à pipe!",
+      "translated": "Дај ми 3 кутии пури и 4 пакетчиња тутун за луле!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais 3 boîtes d'allumettes et un briquet",
+      "translated": "Би сакал/а 3 кутии кибрити и запалка.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien coûte une boîte d'allumettes?",
+      "translated": "Колку чини кутија кибрити?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "quotidien",
+      "translated": "дневно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "journal de mode",
+      "translated": "модно списание",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "journal du soir",
+      "translated": "вечерен весник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "journal du matin",
+      "translated": "утрински весник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "presse (du jour)",
+      "translated": "печат (на денот)",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "allumettes",
+      "translated": "натпревари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "briquet",
+      "translated": "запалка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tabac",
+      "translated": "тутун",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "papier à cigarettes",
+      "translated": "хартија за цигари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pipe",
+      "translated": "цевка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cure-pipe",
+      "translated": "чистач на цевки",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": 1785351838417,
+  "name": "Legumes-fruits",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 56,
+  "exchanges": [
+    {
+      "original": "Chez le marchand de quatre saisons",
+      "translated": "Кај трговецот со четири годишни времиња",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un kilo de tomates",
+      "translated": "Дај ми килограм домати",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien ces carottes?",
+      "translated": "Колку чинат овие моркови?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pesez-moi trois kilos de pommes de terre",
+      "translated": "Измерете ми три килограми компири",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Choisissez-moi cinq gousses d'oignon",
+      "translated": "Избери пет чешниња кромид за мене.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'avez-vous comme salades?",
+      "translated": "Какви салати имате?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Choisissez-moi quatre belles laitues",
+      "translated": "Избери четири убави зелени салата за мене.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Choisissez-moi une grosse pastèque",
+      "translated": "Избери ми голема лубеница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que je peux goûter ce raisin blanc",
+      "translated": "Може ли да го пробам ова бело грозје?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Légumes",
+      "translated": "Зеленчук",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chou",
+      "translated": "зелка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chou-fleur",
+      "translated": "карфиол",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "carotte",
+      "translated": "морков",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "oignon",
+      "translated": "кромид",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ail",
+      "translated": "лук",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "lentilles",
+      "translated": "леќи",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tomate",
+      "translated": "домат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "persil",
+      "translated": "магдонос",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "petit pois",
+      "translated": "грашок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "haricot vert",
+      "translated": "зелен грав",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "champignons",
+      "translated": "печурки",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "céléri",
+      "translated": "целер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "navet",
+      "translated": "репка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "épinard",
+      "translated": "спанаќ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pomme de terre",
+      "translated": "компир",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "poireau",
+      "translated": "праз",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "aubergine",
+      "translated": "модар патлиџан",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rainfort",
+      "translated": "дождовна тврдина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "concombre",
+      "translated": "краставица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Fruits",
+      "translated": "Овошје",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "poire",
+      "translated": "круша",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pomme",
+      "translated": "јаболко",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "abricot",
+      "translated": "кајсија",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "prune",
+      "translated": "слива",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cérise",
+      "translated": "цреша",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pêche",
+      "translated": "риболов",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fraise",
+      "translated": "јагода",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "framboise",
+      "translated": "малина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "raisin",
+      "translated": "грозје",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "noix",
+      "translated": "орев",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "noisette",
+      "translated": "лешник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "marron",
+      "translated": "кафеава",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "amande",
+      "translated": "бадем",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "melon",
+      "translated": "диња",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "melon d'eau",
+      "translated": "лубеница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "banane",
+      "translated": "банана",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ananas",
+      "translated": "ананас",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "citron",
+      "translated": "лимон",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "orange",
+      "translated": "портокалова",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "datte",
+      "translated": "датум",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cassis",
+      "translated": "црна рибизла",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "figue",
+      "translated": "сл.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "coing",
+      "translated": "дуња",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "griotte",
+      "translated": "вишна",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "corme",
+      "translated": "луковица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cacahouète",
+      "translated": "кикирики",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

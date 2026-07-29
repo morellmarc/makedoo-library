@@ -1,0 +1,364 @@
+{
+  "id": 1785354191072,
+  "name": "Automobile",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 59,
+  "exchanges": [
+    {
+      "original": "Automobile — Généralités",
+      "translated": "Автомобили — Општи информации",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J'ai le permis de conduire",
+      "translated": "Имам возачка дозвола",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Mon ami a le permis de conduire international",
+      "translated": "Мојот пријател има меѓународна возачка дозвола",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voilà les papiers de la voiture",
+      "translated": "Еве ги документите за колата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est la carte grise",
+      "translated": "Ова е документ за регистрација на возило.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien de kilomètres d'ici à ...?",
+      "translated": "Колку километри од тука до ...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que la route est bonne?",
+      "translated": "Дали патот е во добра состојба?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dans combien de temps serai-je à ...?",
+      "translated": "Колку брзо ќе бидам на...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'y a-t-il d'intéressant à voir sur cette itinéraire?",
+      "translated": "Што има да се види по оваа рута?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Par où va-t-on à ...?",
+      "translated": "По кој пат да одиме...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce la route de ...?",
+      "translated": "Дали ова е патот до...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Allez tout droit!",
+      "translated": "Оди право!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous devez reculer",
+      "translated": "Мора да направите резервна копија",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Tournez à droite!",
+      "translated": "Свртете десно!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Tournez à gauche!",
+      "translated": "Свртете лево!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Faites attention, la route est glissante!",
+      "translated": "Бидете внимателни, патот е лизгав!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "signaux routiers",
+      "translated": "сообраќајни знаци",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chaussée glissante",
+      "translated": "лизгав пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "virage dangereux",
+      "translated": "Опасен пресврт",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "virage à gauche",
+      "translated": "свртување лево",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "virage à droite",
+      "translated": "свртување надесно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tourner à droite",
+      "translated": "сврти десно",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tourner à gauche",
+      "translated": "Свртете лево",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "attention, enfants",
+      "translated": "Внимание, деца",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "autoroute",
+      "translated": "автопат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chaussée rétrécie",
+      "translated": "стеснет пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "intersection, carrefour",
+      "translated": "раскрсница, раскрсница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "arrêter le moteur",
+      "translated": "запрете го моторот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "stationnement interdit",
+      "translated": "ЗАБРАНЕТО ПАРКИРАЊЕ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "défense de parquer",
+      "translated": "забрането паркирање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "une route sinueuse",
+      "translated": "кривулест пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "un pont",
+      "translated": "мост",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "une route étroite",
+      "translated": "тесен пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "une route large",
+      "translated": "широк пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "une route droite",
+      "translated": "прав пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "interdiction de doubler",
+      "translated": "Не е дозволено престигнување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "interdit à tous véhicules",
+      "translated": "забрането за сите возила",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "vitesse limitée",
+      "translated": "ограничена брзина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sens unique",
+      "translated": "Еднонасочна",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sens obligatoire",
+      "translated": "еднонасочна улица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "route giratoire",
+      "translated": "кружен тек",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "route à priorité",
+      "translated": "приоритетен пат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "péage",
+      "translated": "ПАТАРИНА",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "douane",
+      "translated": "царина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "parcage autorisé",
+      "translated": "дозволено паркирање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Halte! Stop!",
+      "translated": "Застани! Застани!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "déviation",
+      "translated": "ЗАОБРУВАЊЕ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "route barrée",
+      "translated": "ПАТОТ Е ЗАТВОРЕН",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "poste de secours",
+      "translated": "станица за прва помош",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "hôpital",
+      "translated": "болница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "école",
+      "translated": "училиште",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "entrée interdite",
+      "translated": "ВЛЕЗ ЗАБРАНЕТ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "prudence",
+      "translated": "претпазливост",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "sortie d'autoroute",
+      "translated": "излез од автопат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ralentissez",
+      "translated": "Забави",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chemin de fer",
+      "translated": "железница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "double virage",
+      "translated": "двојно вртење",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "téléphone",
+      "translated": "телефон",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "travaux",
+      "translated": "дела",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

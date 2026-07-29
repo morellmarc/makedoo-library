@@ -1,0 +1,214 @@
+{
+  "id": 1785271770294,
+  "name": "Hotel",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 34,
+  "exchanges": [
+    {
+      "original": "A l'hôtel — Location d'une chambre",
+      "translated": "Во хотелот — Изнајмување соба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour, monsieur!",
+      "translated": "Здраво господине!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous une chambre libre?",
+      "translated": "Дали имате резервна соба?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous une chambre à deux lits?",
+      "translated": "Дали имате соба со два кревета?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire une chambre à un lit avec salle de bains",
+      "translated": "Би сакал/а еднокреветна соба со бања.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quel étage?",
+      "translated": "Кој кат?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire une chambre au premier (au second)",
+      "translated": "Би сакал/а соба на првиот (вториот) кат.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "La chambre doit être calme",
+      "translated": "Собата треба да биде тивка.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je reste une nuit",
+      "translated": "Останувам една ноќ",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je reste trois jours",
+      "translated": "Останувам три дена.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Nous restons cinq jours",
+      "translated": "Остануваме пет дена",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est une chambre à combien?",
+      "translated": "Колку чини оваа соба?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le prix de cette chambre est de 50 $",
+      "translated": "Цената за оваа соба е 50 долари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous une meilleure chambre?",
+      "translated": "Дали имате подобра соба?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous une chambre plus simple?",
+      "translated": "Дали имате поедноставна соба?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien coûte une pension complète?",
+      "translated": "Колку чини полн пансион?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Faites monter mes bagages dans ma chambre, s'il vous plaît!",
+      "translated": "Ве молам донесете го мојот багаж во мојата соба!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Les bagages sont dans la voiture",
+      "translated": "Багажот е во автомобилот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est l'ascenseur?",
+      "translated": "Каде е лифтот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "salle",
+      "translated": "соба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "restaurant",
+      "translated": "ресторан",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "garage",
+      "translated": "гаража",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "toilettes, WC",
+      "translated": "тоалети, WC",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "coiffeur",
+      "translated": "фризер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bureau de change",
+      "translated": "менувачница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Votre passeport ou votre carte d'identité, s'il vous plaît!",
+      "translated": "Вашиот пасош или лична карта, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi la clé (de la chambre), s'il vous plaît!",
+      "translated": "Дај ми го клучот (од собата), те молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "prénom",
+      "translated": "име",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "nom",
+      "translated": "име",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "né le ...",
+      "translated": "роден на...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "à ...",
+      "translated": "има ...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "profession",
+      "translated": "занимање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "domicile",
+      "translated": "живеалиште",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "nationalité",
+      "translated": "Националност",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": 1785352053647,
+  "name": "Fleuriste",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 37,
+  "exchanges": [
+    {
+      "original": "Chez le fleuriste",
+      "translated": "Во цвеќарницата",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous de roses?",
+      "translated": "Дали имате рози?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "A quel prix sont les roses?",
+      "translated": "Која е цената на розите?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire un bouquet de tulipes",
+      "translated": "Би сакал/а букет лалиња.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous êtes un nouveau marchand de fleurs",
+      "translated": "Вие сте нов продавач на цвеќиња",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des chrysanthèmes?",
+      "translated": "Дали имате хризантеми?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien en désirez-vous?",
+      "translated": "Колку сакате?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Neuf",
+      "translated": "Девет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un peu de feuillage, s'il vous plaît!",
+      "translated": "Дајте ми малку зеленило, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ma femme préfère les jacinthes",
+      "translated": "Мојата сопруга претпочита зумбули.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Et vous?",
+      "translated": "А ти?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Œillets",
+      "translated": "Каранфили",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Comment s'appelle cette fleur?",
+      "translated": "Како се вика овој цвет?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est du muguet",
+      "translated": "Тоа е крин од долината",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Apportez ces fleurs à l'adresse ... avec ma carte de visite",
+      "translated": "Донесете ги овие цвеќиња на адресата... со мојата визит-карта",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien vous dois-je?",
+      "translated": "Колку ти должам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Vous n'avez que trois bouquets de fleurs?",
+      "translated": "Имаш само три букети цвеќиња?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Trois fois cinquante...",
+      "translated": "Три пати педесет...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Cent cinquante denars",
+      "translated": "Сто и педесет денари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "lilas",
+      "translated": "јоргован",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fougère",
+      "translated": "папрат",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "rose",
+      "translated": "розова",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "violette",
+      "translated": "виолетова",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "primavère",
+      "translated": "исконски",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "mimosas",
+      "translated": "мимози",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "orchidée",
+      "translated": "орхидеја",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "narcisse",
+      "translated": "нарцис",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "perce-neige",
+      "translated": "кокиче",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "myositis",
+      "translated": "миозитис",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bleuet",
+      "translated": "боровинка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cyclamen",
+      "translated": "циклама",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chrysanthème",
+      "translated": "хризантема",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "œillet",
+      "translated": "дупче",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pivoine",
+      "translated": "божур",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "muguet",
+      "translated": "дрозд",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "dahlie",
+      "translated": "дали",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "giroflée",
+      "translated": "wallflower",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

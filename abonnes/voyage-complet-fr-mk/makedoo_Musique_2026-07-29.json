@@ -1,0 +1,154 @@
+{
+  "id": 1785353572897,
+  "name": "Musique",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 24,
+  "exchanges": [
+    {
+      "original": "Au magasin d'instruments de musique",
+      "translated": "Во продавницата за музички инструменти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "je voudrais acheter une guitare",
+      "translated": "Сакам да купам гитара",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel est le prix de cet accordéon?",
+      "translated": "Колку е цената на оваа хармоника?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Qu'est-ce que vous avez comme instruments à vent?",
+      "translated": "Какви дувачки инструменти имате?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des harmonicas?",
+      "translated": "Дали имаш хармоники?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais quelque chose de beau mais pas trop cher",
+      "translated": "Сакам нешто убаво, но не премногу скапо",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "guitare",
+      "translated": "гитара",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "flûte",
+      "translated": "флејта",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "clarinette",
+      "translated": "кларинет",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "violon",
+      "translated": "виолина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "violoncelle",
+      "translated": "виолончело",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "piano",
+      "translated": "пијано",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "accordéon",
+      "translated": "хармоника",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "saxophone",
+      "translated": "саксофон",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "hautbois",
+      "translated": "обоа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cymbale",
+      "translated": "чинела",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cornemuse",
+      "translated": "гајди",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tambour",
+      "translated": "тапан",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "castagnettes",
+      "translated": "кастанети",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cor",
+      "translated": "рог",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trombone",
+      "translated": "тромбон",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "corne",
+      "translated": "рог",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trompette",
+      "translated": "труба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "mandoline",
+      "translated": "мандолина",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

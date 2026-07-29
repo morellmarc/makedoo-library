@@ -1,0 +1,202 @@
+{
+  "id": 1785353738964,
+  "name": "Jouets",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 32,
+  "exchanges": [
+    {
+      "original": "Au magasin de jouets",
+      "translated": "Во продавницата за играчки",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je désire un jouet pour un enfant de cinq ans",
+      "translated": "Би сакал/а играчка за петгодишно дете.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "C'est un jouet très compliqué",
+      "translated": "Тоа е многу комплицирана играчка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous quelque chose de plus simple, de plus joli, de moins cher?",
+      "translated": "Дали имате нешто поедноставно, поубаво, поевтино?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien coûte cette poupée?",
+      "translated": "Колку чини оваа кукла?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je prends ce jouet",
+      "translated": "Ќе ја земам оваа играчка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "jouet",
+      "translated": "играчка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "trotinette",
+      "translated": "скутер",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cerceau",
+      "translated": "обрач",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "tricycle",
+      "translated": "трицикл",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ballon, balle",
+      "translated": "топка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "patins à roulettes",
+      "translated": "ролерки",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "toupie",
+      "translated": "вртелешка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "fouet",
+      "translated": "камшик",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "voilier",
+      "translated": "едрилица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "jeu de badminton",
+      "translated": "игра на бадминтон",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "billes",
+      "translated": "мермери",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "poupée",
+      "translated": "кукла",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "jouet en peluche",
+      "translated": "плишана играчка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "jouet en caoutchouc",
+      "translated": "гумена играчка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "landau de poupée",
+      "translated": "количка за кукли",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ours",
+      "translated": "мечка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "soldat de plomb",
+      "translated": "лимен војник",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cheval à bascule",
+      "translated": "коњ за лулање",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "arc et flèche",
+      "translated": "лак и стрела",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "petit éléphant",
+      "translated": "мал слон",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "caniche",
+      "translated": "пудлица",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "voiture à pédale",
+      "translated": "автомобил со педали",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "cerf-volant",
+      "translated": "змеј",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "polichinelle",
+      "translated": "Пунчинело",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "corde à sauter",
+      "translated": "прескокнување јаже",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "plasteline",
+      "translated": "пластелин",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

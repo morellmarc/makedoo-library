@@ -1,0 +1,196 @@
+{
+  "id": 1785354448322,
+  "name": "Station d’essence",
+  "date": "2026-07-29",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 31,
+  "exchanges": [
+    {
+      "original": "Poste d'essence",
+      "translated": "Бензинска пумпа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est le prochain poste d'essence?",
+      "translated": "Каде е следната бензинска пумпа?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi vingt litres d'essence super!",
+      "translated": "Дај ми дваесет литри премиум бензин!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Combien coûte un litre d'essence?",
+      "translated": "Колку чини еден литар бензин?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Faites le plein d'essence!",
+      "translated": "Наполнете го резервоарот за гориво!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Remettez-moi de l'eau!",
+      "translated": "Дај ми уште вода!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ajoutez un produit antigel!",
+      "translated": "Додадете производ за антифриз!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel est le niveau d'huile?",
+      "translated": "Колкаво е нивото на маслото?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi un bidon d'huile!",
+      "translated": "Дај ми конзерва масло!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voudriez-vous changer l'huile?",
+      "translated": "Дали сакате да го смените маслото?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Faites un graissage, s'il vous plaît",
+      "translated": "Ве молам намастете го.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel est la pression des pneus?",
+      "translated": "Колкав е притисокот во гумите?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Gonflez-les un peu, y compris la roue de secours, s'il vous plaît!",
+      "translated": "Надуј ги малку, вклучувајќи ја и резервната гума, те молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voudriez-vous laver la voiture?",
+      "translated": "Дали сакате да го измиете автомобилот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous des bougies?",
+      "translated": "Дали имате свеќи?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi quatre bougies!",
+      "translated": "Дај ми четири свеќи!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quand est-ce que je peux la reprendre?",
+      "translated": "Кога можам да го вратам?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "poste d'essence",
+      "translated": "бензинска пумпа",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "essence ordinaire",
+      "translated": "обичен бензин",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "essence super",
+      "translated": "супер бензин",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "huile",
+      "translated": "масло",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "changer l'huile",
+      "translated": "смени го маслото",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "décrasser les bougies",
+      "translated": "исчистете ги свеќичките",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "ajouter",
+      "translated": "додај",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "graisser la voiture",
+      "translated": "подмачкајте го автомобилот",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "bidon",
+      "translated": "конзерва",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "pression",
+      "translated": "притисок",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "gonfler",
+      "translated": "отекување",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "laver",
+      "translated": "миење",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "roue de secours",
+      "translated": "резервно тркало",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "chaînes à neige",
+      "translated": "синџири за снег",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
