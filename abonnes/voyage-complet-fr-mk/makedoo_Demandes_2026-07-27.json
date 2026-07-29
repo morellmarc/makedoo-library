@@ -1,0 +1,82 @@
+{
+  "id": 1785185484542,
+  "name": "Demandes",
+  "date": "2026-07-27",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 12,
+  "exchanges": [
+    {
+      "original": "Demande et désir",
+      "translated": "Побарувачка и желба",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Pourriez-vous me rendre un service?",
+      "translated": "Можеш ли да ми направиш услуга?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Auriez-vous la bonté de ...?",
+      "translated": "Дали би биле толку љубезни да...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Voudriez-vous ...?",
+      "translated": "Дали би сакале да...?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ayez la bonté de ...",
+      "translated": "Ве молам бидете толку љубезни што...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ayez la complaisance de ...",
+      "translated": "Ве молам бидете толку љубезни што...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Permettez-moi de ...",
+      "translated": "Дозволете ми да...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Passez-moi, s'il vous plaît ...",
+      "translated": "Ве молам, поврзете ме...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi, s'il vous plaît ...",
+      "translated": "Те молам дај ми го...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Envoyez-moi, s'il vous plaît ...",
+      "translated": "Ве молам испратете ми го...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Apportez-moi, s'il vous plaît ...",
+      "translated": "Донеси ми го, те молам...",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Puis-je vous demander du feu?",
+      "translated": "Може ли да ве замолам за светлина?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}

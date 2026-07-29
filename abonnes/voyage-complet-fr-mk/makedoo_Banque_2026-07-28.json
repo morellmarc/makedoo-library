@@ -1,0 +1,172 @@
+{
+  "id": 1785269080116,
+  "name": "Banque",
+  "date": "2026-07-28",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 27,
+  "exchanges": [
+    {
+      "original": "A la banque",
+      "translated": "Во банката",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est la Banque?",
+      "translated": "Каде е банката?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est-ce que je peux changer de l'argent?",
+      "translated": "Каде можам да менувам пари?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Puis-je changer de l'argent à l'hôtel?",
+      "translated": "Може ли да менувам пари во хотелот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais retirer de l'argent",
+      "translated": "Би сакал да повлечам пари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais verser de l'argent",
+      "translated": "Би сакал/а да донирам пари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je voudrais toucher ce chèque",
+      "translated": "Би сакал да го уновчам овој чек",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Votre passeport, s'il vous plaît!",
+      "translated": "Вашиот пасош, ве молам!",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce que j'ai reçu de l'argent à mon compte?",
+      "translated": "Дали добив пари на мојата сметка?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel montant?",
+      "translated": "Колку?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Où est la caisse, s'il vous plaît!?",
+      "translated": "Каде е касата, ве молам!?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bureau de change",
+      "translated": "Менувачница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Donnez-moi de grosses (petites) coupures, s'il vous plaît",
+      "translated": "Дајте ми големи (мали) банкноти, ве молам",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel est le cours?",
+      "translated": "Што е курсот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Un dollar pour 60 denars",
+      "translated": "Еден долар за 60 денари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Avez-vous de monnaie?",
+      "translated": "Дали имате некаков кусур?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Non, monsieur, je n'ai que des gros billets",
+      "translated": "Не, господине, имам само големи банкноти",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je suis à court d'argent",
+      "translated": "Ми недостасуваат пари",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Signez vos noms et prénom, s'il vous plaît",
+      "translated": "Ве молиме потпишете го вашето име и презиме.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Caisse d'épargne",
+      "translated": "Штедилница",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Banque Nationale",
+      "translated": "Национална банка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Banque de Commerce",
+      "translated": "Комерцијална банка",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "je paie en argent comptant",
+      "translated": "Плаќам во готово",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Porter la somme au compte",
+      "translated": "Префрлете го износот на сметката",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Accorder un crédit",
+      "translated": "Доделување кредит",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Frais",
+      "translated": "Трошоци",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Payer",
+      "translated": "Плати",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
