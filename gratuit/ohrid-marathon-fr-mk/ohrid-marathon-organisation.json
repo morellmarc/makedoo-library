@@ -1,0 +1,82 @@
+{
+  "id": 1786466831056,
+  "name": "Ohrid Marathon",
+  "date": "2026-08-11",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 12,
+  "exchanges": [
+    {
+      "original": "Est-ce que tu vas assister au Marathon",
+      "translated": "Ќе присуствуваш на маратонот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Sais-tu à quelle heure commence le Marathon ?",
+      "translated": "Знаеш ли во кое време почнува маратонот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "L'année passée, je crois que le marathon a eu lieu plus tôt au mois d'août, n'est-ce-pas ?",
+      "translated": "Минатата година, мислам дека маратонот се одржа порано во август, нели?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Dis moi quand tu seras prêt à partir.",
+      "translated": "Кажи ми кога ќе бидеш спремен да заминеш.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Sais tu quel était le vainqueur l'année passée ?",
+      "translated": "Дали знаете кој беше победникот минатата година?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "De quel pays était le vainqueur ?",
+      "translated": "Која земја беше победник?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Est-ce-que le vainqueur de l'année passée participe cette année ?",
+      "translated": "Дали минатогодишниот победник учествува оваа година?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel edt le pays qui a eu le plus de vainqueurs depuis que le marathon existe ?",
+      "translated": "Која земја имала најмногу победници откако започнал маратонот?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quelle année a eu lieu le premier marathon d'Ohrid ?",
+      "translated": "Во која година се одржа првиот охридски маратон?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quel a été le record entre Sveti-Naum et Ohrid ?",
+      "translated": "Колкав беше рекордот помеѓу Свети-Наум и Охрид?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Quand l'arrivée est-elle prévue à Ohrid ?",
+      "translated": "Кога е закажано пристигнувањето во Охрид?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il fera sans doute nuit quand nous rentrerons à Gradiste.",
+      "translated": "Веројатно ќе биде темно кога ќе се вратиме во Градиште.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
