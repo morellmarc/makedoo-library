@@ -34,6 +34,14 @@
       "description": "Test 3",
       "langPair": "fr-en",
       "path": "gratuit/test"
+    },
+    {
+      "id": "ohrid-marathon-fr-mk",
+      "tier": "gratuit",
+      "name": "Ohrid Marathon",
+      "description": "Evénement sportif",
+      "langPair": "fr-mk",
+      "path": "gratuit/ohrid-marathon-fr-mk"
     }
   ]
 }
