@@ -1,0 +1,58 @@
+{
+  "id": 1786468342276,
+  "name": "Ohrid-Marathon-Sur le lac",
+  "date": "2026-08-11",
+  "langFrom": "fr",
+  "langTo": "mk",
+  "count": 8,
+  "exchanges": [
+    {
+      "original": "Ce nageur est plus rapide que les autres.",
+      "translated": "Овој пливач е побрз од другите.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ce nageur va dépasser tous les autres.",
+      "translated": "Овој пливач ќе ги надмине сите други.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Ce najeur a un style très personnel.",
+      "translated": "Овој пливач има многу личен стил.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Je ne suis pas certain qu'il va arriver à finir la course.",
+      "translated": "Не сум сигурен дека ќе може да ја заврши трката.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "J’espère que les vagues ne vont pas encore grossir.",
+      "translated": "Се надевам дека брановите нема да станат поголеми.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Si le vent continue à soufler aussi fort, le comité d'organisation va annuler la course.",
+      "translated": "Доколку ветерот продолжи да дува толку силно, организацискиот одбор ќе ја откаже трката.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Le vent est faible et il n'y a pas de vagues.",
+      "translated": "Ветерот е лесен и нема бранови.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Il ne faut pas trop se rapprocher des nageurs ni des autres bateaux",
+      "translated": "Не треба да се приближувате премногу до пливачите или другите чамци.",
+      "langFrom": "fr",
+      "langTo": "mk"
+    }
+  ]
+}
