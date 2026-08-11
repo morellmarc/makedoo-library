@@ -28,14 +28,6 @@
       "path": "professionnel/tourisme-hotellerie-fr-mk"
     },
     {
-      "id": "test",
-      "tier": "gratuit",
-      "name": "Test 2",
-      "description": "Test 3",
-      "langPair": "fr-en",
-      "path": "gratuit/test"
-    },
-    {
       "id": "ohrid-marathon-fr-mk",
       "tier": "gratuit",
       "name": "Ohrid Marathon",
