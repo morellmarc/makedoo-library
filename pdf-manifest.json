@@ -6,22 +6,25 @@
       "id": "bibliographie-piloter-en-afrique-fr",
       "title": "Piloter en Afrique",
       "lang": "fr",
-      "category": "bibliographie",
+      "category": "biographie",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260716-Piloter%20en%20Afrique-FR-Poche.pdf"
     },
     {
       "id": "bibliographie--mk",
       "title": "Летање во Африка",
       "lang": "mk",
-      "category": "bibliographie",
+      "category": "biographie",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260620-Piloter%20en%20Afrique-MK-texte.pdf"
     },
     {
       "id": "bibliographie-flying-in-africa-en",
       "title": "Flying in Africa",
       "lang": "en",
-      "category": "bibliographie",
+      "category": "biographie",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260316-Flying%20in%20Africa-EN-marc-morell.pdf"
     }
+  ],
+  "categories": [
+    "biographie"
   ]
 }
