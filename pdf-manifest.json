@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "books": [
     {
       "id": "bibliographie-piloter-en-afrique-fr",
@@ -19,13 +19,6 @@
     {
       "id": "bibliographie-flying-in-africa-en",
       "title": "Flying in Africa",
-      "lang": "en",
-      "category": "bibliographie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260316-Flying%20in%20Africa-EN-marc-morell.pdf"
-    },
-    {
-      "id": "bibliographie-fying-in-africa-en",
-      "title": "Fying in Africa",
       "lang": "en",
       "category": "bibliographie",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260316-Flying%20in%20Africa-EN-marc-morell.pdf"
