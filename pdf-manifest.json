@@ -30,10 +30,19 @@
       "type": "livre",
       "category": "macedonia",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260709-Ohrid%20-%20Three%20Thousand%20Years%20by%20the%20Lake-EN.pdf"
+    },
+    {
+      "id": "mac-doine-le-marathon-d-ohrid-fr",
+      "title": "Le marathon d’Ohrid",
+      "lang": "fr",
+      "type": "livre",
+      "category": "mac-doine",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260913-Marathon_natation_Ohrid.pdf"
     }
   ],
   "categories": [
     "macedonia",
-    "biography"
+    "biography",
+    "mac-doine"
   ]
 }
