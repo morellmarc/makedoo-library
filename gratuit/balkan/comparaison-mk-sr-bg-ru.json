@@ -1,0 +1,40 @@
+{
+  "id": 1786804745312,
+  "name": "Comparaison MK, SR, BG, RU",
+  "date": "2026-08-15",
+  "langFrom": "fr",
+  "langTo": "ru",
+  "count": 5,
+  "exchanges": [
+    {
+      "original": "Bonjour, comment allez-vous ?",
+      "translated": "Bonjour, comment allez-vous ?",
+      "langFrom": "fr",
+      "langTo": "fr"
+    },
+    {
+      "original": "Bonjour, comment allez-vous ?",
+      "translated": "Добро утро, како си?",
+      "langFrom": "fr",
+      "langTo": "mk"
+    },
+    {
+      "original": "Bonjour, comment allez-vous ?",
+      "translated": "Добро јутро, како сте?",
+      "langFrom": "fr",
+      "langTo": "sr"
+    },
+    {
+      "original": "Bonjour, comment allez-vous ?",
+      "translated": "Добро утро, как сте?",
+      "langFrom": "fr",
+      "langTo": "bg"
+    },
+    {
+      "original": "Bonjour, comment allez-vous ?",
+      "translated": "Доброе утро, как дела?",
+      "langFrom": "fr",
+      "langTo": "ru"
+    }
+  ]
+}
