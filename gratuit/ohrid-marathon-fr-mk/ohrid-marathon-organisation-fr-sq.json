@@ -1,0 +1,83 @@
+{
+  "id": 1786777885398,
+  "name": "Ohrid-Marathon-Organisation (FR-SQ)",
+  "date": "2026-08-15",
+  "langFrom": "fr",
+  "langTo": "sq",
+  "count": 12,
+  "exchanges": [
+    {
+      "original": "Est-ce que tu vas assister au Marathon",
+      "translated": "Do të marrësh pjesë në Maratonë?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Sais-tu à quelle heure commence le Marathon ?",
+      "translated": "A e dini se në çfarë ore fillon Maratona?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "L'année passée, je crois que le marathon a eu lieu plus tôt au mois d'août, n'est-ce-pas ?",
+      "translated": "Vitin e kaluar, besoj se maratona u zhvillua më herët në gusht, apo jo?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Dis moi quand tu seras prêt à partir.",
+      "translated": "Më thuaj kur je gati të largohesh.",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Sais tu quel était le vainqueur l'année passée ?",
+      "translated": "A e dini kush ishte fituesi vitin e kaluar?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "De quel pays était le vainqueur ?",
+      "translated": "Cili vend ishte fituesi?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Est-ce-que le vainqueur de l'année passée participe cette année ?",
+      "translated": "A do të marrë pjesë fituesi i vitit të kaluar këtë vit?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Quel edt le pays qui a eu le plus de vainqueurs depuis que le marathon existe ?",
+      "translated": "Cili vend ka pasur më shumë fitues që nga fillimi i maratonës?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Quelle année a eu lieu le premier marathon d'Ohrid ?",
+      "translated": "Në cilin vit u zhvillua maratona e parë e Ohrit?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Quel a été le record entre Sveti-Naum et Ohrid ?",
+      "translated": "Cili ishte rekordi midis Sveti-Naumit dhe Ohrit?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Quand l'arrivée est-elle prévue à Ohrid ?",
+      "translated": "Kur është planifikuar mbërritja në Ohër?",
+      "langFrom": "fr",
+      "langTo": "sq"
+    },
+    {
+      "original": "Il fera sans doute nuit quand nous rentrerons à Gradiste.",
+      "translated": "Me shumë mundësi do të errësohet kur të kthehemi në Gradishtë.",
+      "langFrom": "fr",
+      "langTo": "sq"
+    }
+  ],
+  "location": ""
+}
