@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "books": [
     {
       "id": "bibliographie-piloter-en-afrique-fr",
@@ -82,6 +82,14 @@
     {
       "id": "macedonia-ohrid---three-thousands-years-by-the-lake-en",
       "title": "Ohrid - Three thousands years by the lake",
+      "lang": "en",
+      "type": "livre",
+      "category": "macedonia",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260814-Ohrid_Three_Thousand_Years_by_the_Lake_EN_with_cover.pdf"
+    },
+    {
+      "id": "macedonia-the-ohrid-swimming-marathon-en",
+      "title": "The Ohrid Swimming Marathon",
       "lang": "en",
       "type": "livre",
       "category": "macedonia",
