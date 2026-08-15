@@ -1,0 +1,83 @@
+{
+  "id": 1786778006205,
+  "name": "Ohrid-Marathon-Organisation (FR-EN)",
+  "date": "2026-08-15",
+  "langFrom": "fr",
+  "langTo": "en",
+  "count": 12,
+  "exchanges": [
+    {
+      "original": "Est-ce que tu vas assister au Marathon",
+      "translated": "Are you going to attend the Marathon?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Sais-tu à quelle heure commence le Marathon ?",
+      "translated": "Do you know what time the Marathon starts?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "L'année passée, je crois que le marathon a eu lieu plus tôt au mois d'août, n'est-ce-pas ?",
+      "translated": "Last year, I believe the marathon took place earlier in August, didn't it?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Dis moi quand tu seras prêt à partir.",
+      "translated": "Tell me when you're ready to leave.",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Sais tu quel était le vainqueur l'année passée ?",
+      "translated": "Do you know who the winner was last year?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "De quel pays était le vainqueur ?",
+      "translated": "Which country was the winner?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Est-ce-que le vainqueur de l'année passée participe cette année ?",
+      "translated": "Is last year's winner participating this year?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Quel edt le pays qui a eu le plus de vainqueurs depuis que le marathon existe ?",
+      "translated": "Which country has had the most winners since the marathon began?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Quelle année a eu lieu le premier marathon d'Ohrid ?",
+      "translated": "In what year did the first Ohrid marathon take place?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Quel a été le record entre Sveti-Naum et Ohrid ?",
+      "translated": "What was the record between Sveti-Naum and Ohrid?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Quand l'arrivée est-elle prévue à Ohrid ?",
+      "translated": "When is the arrival scheduled in Ohrid?",
+      "langFrom": "fr",
+      "langTo": "en"
+    },
+    {
+      "original": "Il fera sans doute nuit quand nous rentrerons à Gradiste.",
+      "translated": "It will probably be dark when we return to Gradiste.",
+      "langFrom": "fr",
+      "langTo": "en"
+    }
+  ],
+  "location": ""
+}
