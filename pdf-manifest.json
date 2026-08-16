@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -97,6 +97,14 @@
       "type": "livre",
       "category": "biography",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260620-Piloter_en_Afrique-MK-couverture.pdf"
+    },
+    {
+      "id": "macedonia-le-marathon-d-ohrid-fr",
+      "title": "Le Marathon d'Ohrid",
+      "lang": "fr",
+      "type": "livre",
+      "category": "macedonia",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260913-Marathon_natation_Ohrid-FR-couverture.pdf"
     }
   ],
   "categories": [
