@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-15",
+  "updated": "2026-08-18",
   "tracks": [
     {
       "id": "bibliography--mk",
@@ -20,6 +20,7 @@
   "categories": [
     "biography",
     "artificial-intelligence",
-    "balkan"
+    "balkan",
+    "video"
   ]
 }
