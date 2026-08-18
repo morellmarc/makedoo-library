@@ -15,12 +15,21 @@
       "lang": "fr",
       "category": "biography",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260413-piloter%20en%20afrique-marc-morell-mono.mp3"
+    },
+    {
+      "id": "makedoo-presentatio-makedoo-mk-presentation-mk",
+      "title": "Makedoo MK presentation",
+      "lang": "mk",
+      "type": "livre",
+      "category": "makedoo-presentatio",
+      "url": "https://youtube.com/shorts/UQoJ3ZV2zz4?si=ef3zPjXJ3V3I8gFj"
     }
   ],
   "categories": [
     "biography",
     "artificial-intelligence",
     "balkan",
-    "video"
+    "video",
+    "makedoo-presentatio"
   ]
 }
