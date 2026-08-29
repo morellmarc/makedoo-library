@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated": "2026-08-15",
+  "updated": "2026-08-29",
   "packs": [
     {
       "id": "essentiels-fr-mk",
@@ -42,6 +42,14 @@
       "description": "Langues des Balkans",
       "langPair": "fr-ru",
       "path": "gratuit/balkan"
+    },
+    {
+      "id": "makedoo-application",
+      "tier": "gratuit",
+      "name": "Makedoo Application",
+      "description": "Tout ce qu'il faut savoir sur Makedoo",
+      "langPair": "fr-en",
+      "path": "gratuit/makedoo-application"
     }
   ]
 }
