@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated": "2026-08-29",
+  "updated": "2026-09-06",
   "packs": [
     {
       "id": "essentiels-fr-mk",
@@ -50,6 +50,14 @@
       "description": "Tout ce qu'il faut savoir sur Makedoo",
       "langPair": "fr-en",
       "path": "gratuit/makedoo-application"
+    },
+    {
+      "id": "makedoo-presentation",
+      "tier": "gratuit",
+      "name": "Makedoo presentation",
+      "description": "",
+      "langPair": "fr-mk",
+      "path": "gratuit/makedoo-presentation"
     }
   ]
 }
