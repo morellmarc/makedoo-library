@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-09-08",
+  "updated": "2026-09-10",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -145,6 +145,14 @@
       "type": "livre",
       "category": "balkans",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260908-Visoko-FR.PDF"
+    },
+    {
+      "id": "environment-lhomme-r-chauffe-l-atmosph-re-fr",
+      "title": "Lhomme réchauffe l’atmosphère",
+      "lang": "fr",
+      "type": "livre",
+      "category": "environment",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260910-Lhomme-rechauffe-atmosphere-FR.pdf"
     }
   ],
   "categories": [
