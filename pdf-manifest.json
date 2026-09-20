@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-09-13",
+  "updated": "2026-09-20",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -233,12 +233,21 @@
       "type": "livre",
       "category": "environment",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260913-sargasses_livre-avec-couverture.pdf"
+    },
+    {
+      "id": "makedoo-makedoo---guide-complet-fr-fr",
+      "title": "Makedoo - Guide complet FR",
+      "lang": "fr",
+      "type": "livre",
+      "category": "makedoo",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260920-Makedoo-Guide-FR.pdf"
     }
   ],
   "categories": [
     "biography",
     "artificial-intelligence",
     "environment",
-    "balkans"
+    "balkans",
+    "makedoo"
   ]
 }
