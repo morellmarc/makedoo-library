@@ -111,7 +111,7 @@
       "title": "ORSTOM-IRD Trajectoire d'un institut de recherche",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260525-ORSTOM_IRD_Trajectoire_avec_couverture.pdf"
     },
     {
@@ -119,7 +119,7 @@
       "title": "ORSTOM-IRD Portraits d'hydrologues",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260604-ORSTOM-IRD-Portraits_Hydrologues_avec_couverture.pdf"
     },
     {
@@ -127,7 +127,7 @@
       "title": "ORSTOM-IRD L'eau tropicale",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260816-Eau_Tropicale_avec_couverture_finale.pdf"
     },
     {
@@ -151,7 +151,7 @@
       "title": "L’homme réchauffe l’atmosphère",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260910-Lhomme-rechauffe-atmosphere-FR-couverture.pdf"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Humanity Heats Atmosphere",
       "lang": "en",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260911-humanity-heats-atmosphere-EN-couv.pdf"
     },
     {
@@ -183,7 +183,7 @@
       "title": "Coral Reefs - A Catastroph Foretold",
       "lang": "en",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260913-Coral-Reefs-Catastrophe-Foretold-EN-cover.pdf"
     },
     {
@@ -191,7 +191,7 @@
       "title": "Récifs coralliens - Une catastrophe annoncée",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260913-Recifs_Coralliens_avec_couverture.pdf"
     },
     {
@@ -199,7 +199,7 @@
       "title": "Les Petites Antilles face au changement climatique",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260521-antilles_changement_climatique_avec_couverture.pdf"
     },
     {
@@ -207,7 +207,7 @@
       "title": "La forêt perdue de la Côte d’Ivoire",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260523-La_Foret_Perdue_de_CI_avec_couverture.pdf"
     },
     {
@@ -215,7 +215,7 @@
       "title": "Les forêts méditerranéennes face au feu",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260523-forets_mediterraneennes_feu_avec_couverture.pdf"
     },
     {
@@ -223,7 +223,7 @@
       "title": "La chlordécone, un fléau durable",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260605-Chlordecone-avec-couverture.pdf"
     },
     {
@@ -231,7 +231,7 @@
       "title": "Les sargasses - Chronique d’un fléau invasif dans la Caraïbe",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260913-sargasses_livre-avec-couverture.pdf"
     },
     {
@@ -255,7 +255,7 @@
       "title": "Démographie de l’Afrique subsaharienne",
       "lang": "fr",
       "type": "livre",
-      "category": "environnement-soci-t-s",
+      "category": "environnement-societes",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260524-Demographie_Afrique_Subsaharienne.pdf"
     }
   ],
@@ -263,7 +263,7 @@
     "biography",
     "balkans",
     "makedoo",
-    "environnement-soci-t-s",
-    "artificial-intelligence"
+    "artificial-intelligence",
+    "environnement-societes"
   ]
 }
