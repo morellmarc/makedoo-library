@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-10-05",
+  "updated": "2026-10-07",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -273,6 +273,14 @@
       "type": "livre",
       "category": "makedoo",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/261005-Makedoo-Guide-FR.pdf"
+    },
+    {
+      "id": "balkans-1932---les-comitadjis---albert-londres-fr",
+      "title": "1932 - Les Comitadjis - Albert Londres",
+      "lang": "fr",
+      "type": "livre",
+      "category": "balkans",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1932-Les_Comitadjis_Londres.pdf"
     }
   ],
   "categories": [
