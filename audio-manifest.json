@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-10-05",
+  "updated": "2026-10-13",
   "tracks": [
     {
       "id": "bibliography--mk",
@@ -31,6 +31,14 @@
       "type": "livre",
       "category": "algerie",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1942-L_Etranger-Albert_Camus.mp3"
+    },
+    {
+      "id": "balkan-ohrid--trois-mille-ans-au-bord-du-lac-fr",
+      "title": "Ohrid -Trois mille ans au bord du lac",
+      "lang": "fr",
+      "type": "livre",
+      "category": "balkan",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/2026-Ohrid-Trois mille ans au bord du lac.mp3"
     }
   ],
   "categories": [
