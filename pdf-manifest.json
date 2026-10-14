@@ -291,14 +291,6 @@
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1997-10-monpereestmort.pdf"
     },
     {
-      "id": "biography--mk",
-      "title": "Летање во Африка - Текст",
-      "lang": "mk",
-      "type": "livre",
-      "category": "biography",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260620-Piloter_en_Afrique-MK-couverture.pdf"
-    },
-    {
       "id": "biography-mk-mk",
       "title": "MK - Летање во Африка - со слики",
       "lang": "mk",
@@ -313,6 +305,14 @@
       "type": "livre",
       "category": "antilles",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1994-guadeloupe-au-fil-de-l-eau.pdf"
+    },
+    {
+      "id": "biography--mk",
+      "title": "Мојот татко е мртов",
+      "lang": "mk",
+      "type": "livre",
+      "category": "biography",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1997-10-MK-Mon-pere-est-mort-couverture.pdf"
     }
   ],
   "categories": [
