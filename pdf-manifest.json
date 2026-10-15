@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -324,7 +324,7 @@
     },
     {
       "id": "balkans-la-turquie-et-le-probleme-de-la-macedoine-et-de-la-vieille-serbie-fr",
-      "title": "La Turquie et le problème de la Macédoine et de la vieille Serbie",
+      "title": "La Turquie et le problème de la Macédoine et de la vieille Serbie - M. G. Miloievitch - 1905",
       "lang": "fr",
       "type": "livre",
       "category": "balkans",
