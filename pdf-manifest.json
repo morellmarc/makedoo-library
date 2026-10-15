@@ -465,6 +465,14 @@
       "type": "livre",
       "category": "biography",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/2018-sous la robe la femme-danielle saada.pdf"
+    },
+    {
+      "id": "navigation-naviguer-a-la-voile---guide-complet---mm-2026-fr",
+      "title": "Naviguer à la voile - Guide complet - MM 2026",
+      "lang": "fr",
+      "type": "livre",
+      "category": "navigation",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260324-Naviguer_a_la_voile_avec_couverture.pdf"
     }
   ],
   "categories": [
@@ -475,6 +483,7 @@
     "environnement-societes",
     "orstom-ird",
     "algerie",
-    "antilles"
+    "antilles",
+    "navigation"
   ]
 }
