@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-10-25",
+  "updated": "2026-10-28",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -473,6 +473,14 @@
       "type": "livre",
       "category": "navigation",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260324-Naviguer_a_la_voile_avec_couverture.pdf"
+    },
+    {
+      "id": "environnement-societes-la-guerre-en-ukraine-fr",
+      "title": "La Guerre en Ukraine",
+      "lang": "fr",
+      "type": "livre",
+      "category": "environnement-societes",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/261028-La_guerre_en_Ukraine-revise-avec_couverture_FR.pdf"
     }
   ],
   "categories": [
