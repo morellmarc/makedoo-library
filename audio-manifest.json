@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "tracks": [
     {
       "id": "bibliography--mk",
@@ -63,6 +63,14 @@
       "type": "livre",
       "category": "balkan",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/261013-ohrid-mk.mp3"
+    },
+    {
+      "id": "geopolitique-la-guerre-en-ukraine-fr",
+      "title": "La guerre en Ukraine",
+      "lang": "fr",
+      "type": "livre",
+      "category": "geopolitique",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/261030-audio-la-guerre-en-ukraine-marc-morell.mp3"
     }
   ],
   "categories": [
@@ -71,6 +79,7 @@
     "balkan",
     "video",
     "algerie",
-    "makedoo"
+    "makedoo",
+    "geopolitique"
   ]
 }
