@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-01",
+  "updated": "2026-11-03",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -497,14 +497,6 @@
       "type": "livre",
       "category": "biography",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/261031-FR-Kim-Peek-avec-couverture-Marc-Morell.pdf"
-    },
-    {
-      "id": "biography-kim-peek-the-man-who-read-everything-en",
-      "title": "Kim Peek, the man who read everything - Marc Morell - 2026",
-      "lang": "en",
-      "type": "livre",
-      "category": "biography",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/261101-Kim-Peek-Marc-Morell-EN-avec-couverture.pdf"
     },
     {
       "id": "biography-kim-pik---chovekot-koj-chitashe-se---marc-morell--2026-mk",
