@@ -503,11 +503,13 @@
     },
     {
       "id": "algerie-hier-est-proche-d-aujourd-hui---jeanne-cheula---1979-fr",
-      "title": "Hier est proche d’aujourd’hui - Jeanne Cheula - 1979",
+      "title": "Hier est proche d’aujourd’hui",
       "lang": "fr",
       "type": "livre",
       "category": "algerie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1979-Hier est proche daujourdhui-Jeanne Cheula.pdf"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1979-Hier est proche daujourdhui-Jeanne Cheula.pdf",
+      "author": "Jeanne Cheula",
+      "year": "1979"
     },
     {
       "id": "algerie-long-est-le-chemin---mohamed-djaafar---2018-fr",
