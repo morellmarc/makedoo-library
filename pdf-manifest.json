@@ -32,7 +32,11 @@
       "lang": "en",
       "type": "livre",
       "category": "artificial-intelligence",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260607-AI_Guide_English_2026.pdf"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260607-AI_Guide_English_2026.pdf",
+      "author": "Marc Morell",
+      "year": "2026",
+      "description": "Artificial intelligence is reshaping the world.\n\nEvery day, it transforms medicine, industry, finance, transportation, education, research, and our daily lives. Yet, behind the spectacular announcements and passionate debates, few people truly understand what artificial intelligence is, how it works, and what its consequences will be.\n\nThis book offers a comprehensive, clear, and rigorous exploration of modern AI.\n\nFrom Alan Turing's early work to the most advanced generative models, you will discover the fundamental principles that govern intelligent systems, the technologies fueling the current revolution, and the major challenges our societies will face.",
+      "amazon": "https://www.amazon.fr/Artificial-Intelligence-History-Current-Perspectives-ebook/dp/B0H4HK97DD"
     },
     {
       "id": "artificial-intelligence-l-intelligence-artificielle-fr",
