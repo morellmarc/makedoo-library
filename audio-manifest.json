@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "tracks": [
     {
       "id": "bibliography--mk",
@@ -87,6 +87,14 @@
       "type": "livre",
       "category": "geopolitique",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/AUDIOS/261105-Vojnata-vo-Ukraina-audio-MK.mp3"
+    },
+    {
+      "id": "orstom-orstom--la-recherche-au-service-du-developpement-fr",
+      "title": "ORSTOM- La recherche au service du développement",
+      "lang": "fr",
+      "type": "livre",
+      "category": "orstom",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/AUDIOS/701121-La-recherche-de-base-au-service-du-développement.mp3"
     }
   ],
   "categories": [
@@ -96,6 +104,7 @@
     "video",
     "algerie",
     "makedoo",
-    "geopolitique"
+    "geopolitique",
+    "orstom"
   ]
 }
