@@ -46,7 +46,10 @@
       "lang": "fr",
       "type": "livre",
       "category": "biography",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1997-10-Mon-pere-est-mort.mp3"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1997-10-Mon-pere-est-mort.mp3",
+      "author": "Marc Morell",
+      "year": "1997",
+      "description": "Nouvelle intimiste. J'ai écrit ce texte, reproduit sans modification, dans les semaines qui ont suivi la mort de mon père."
     },
     {
       "id": "biography--mk",
