@@ -26,11 +26,13 @@
     },
     {
       "id": "algerie-albert-camus---l-tranger-fr",
-      "title": "Albert Camus - L’étranger",
+      "title": "L’étranger",
       "lang": "fr",
       "type": "livre",
       "category": "algerie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1942-L_Etranger-Albert_Camus.mp3"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1942-L_Etranger-Albert_Camus.mp3",
+      "author": "Albert Camus",
+      "year": "1942"
     },
     {
       "id": "balkan-ohrid--trois-mille-ans-au-bord-du-lac-fr",
