@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-07",
+  "updated": "2026-11-09",
   "tracks": [
     {
       "id": "bibliography--mk",
@@ -122,6 +122,17 @@
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/AUDIOS/701121-La-recherche-de-base-au-service-du-développement.mp3",
       "author": "Camus G., Fournier F.",
       "year": "1970"
+    },
+    {
+      "id": "biography-mon-pere-est-mort---voix-mm-clonee-fr",
+      "title": "Mon père est mort - Voix MM clonée",
+      "lang": "fr",
+      "type": "livre",
+      "category": "biography",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/AUDIOS/261109-FR-1997-mon-pere-est-mort-AUDIO-marc-morell.mp3",
+      "author": "Marc Morell",
+      "year": "1997",
+      "description": "Nouvelle intimiste - Texte original écrit en 1997 - Voix clonée MM"
     }
   ],
   "categories": [
