@@ -613,11 +613,13 @@
     },
     {
       "id": "biography-kim-pik---chovekot-koj-chitashe-se---marc-morell--2026-mk",
-      "title": "Ким Пик - Човекот кој читаше сè - Марк Морел - 2026",
+      "title": "Ким Пик - Човекот кој читаше сè",
       "lang": "mk",
       "type": "livre",
       "category": "biography",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/261101-MK-Kim-Peek-Marc-Morell-couverture.pdf"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/261101-MK-Kim-Peek-Marc-Morell-couverture.pdf",
+      "author": "Marc Morell",
+      "year": "2026"
     },
     {
       "id": "orstom-ird-orstom--la-recherche-de-base-au-service-du-developpement-fr",
