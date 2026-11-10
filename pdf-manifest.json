@@ -96,11 +96,13 @@
     },
     {
       "id": "biography-piloter-en-afrique-fr",
-      "title": "Piloter en Afrique - illustré - Marc Morell - 2026",
+      "title": "Piloter en Afrique - illustré",
       "lang": "fr",
       "type": "livre",
       "category": "biography",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260716-Piloter_en_Afrique-FR-Illustree-couverture.pdf"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260716-Piloter_en_Afrique-FR-Illustree-couverture.pdf",
+      "author": "Marc Morell",
+      "year": "2026"
     },
     {
       "id": "biography-flying-in-africa-en",
