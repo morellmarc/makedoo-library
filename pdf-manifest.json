@@ -104,11 +104,13 @@
     },
     {
       "id": "biography-flying-in-africa-en",
-      "title": "Flying in Africa - Marc Morell - 2026",
+      "title": "Flying in Africa",
       "lang": "en",
       "type": "livre",
       "category": "biography",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260316-Flying_in_Africa-EN-couverture.pdf"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/260316-Flying_in_Africa-EN-couverture.pdf",
+      "author": "Marc Morell",
+      "year": "2026"
     },
     {
       "id": "macedonia-maratoni-i-notit-i-ohrit-sq",
