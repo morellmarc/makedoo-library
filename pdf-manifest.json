@@ -390,11 +390,13 @@
     },
     {
       "id": "biography--mk",
-      "title": "Мојот татко е мртов - Марк Морел -1997",
+      "title": "Мојот татко е мртов",
       "lang": "mk",
       "type": "livre",
       "category": "biography",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1997-10-MK-Mon-pere-est-mort-couverture.pdf"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1997-10-MK-Mon-pere-est-mort-couverture.pdf",
+      "author": "Marc Morell",
+      "year": "1997"
     },
     {
       "id": "biography-letanje-vo-afrika-mk",
