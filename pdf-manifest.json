@@ -337,11 +337,13 @@
     },
     {
       "id": "balkans-1932---les-comitadjis---albert-londres-fr",
-      "title": "Les Comitadjis - Albert Londres -1932",
+      "title": "Les Comitadjis",
       "lang": "fr",
       "type": "livre",
       "category": "balkans",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1932-Les_Comitadjis_Londres.pdf"
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1932-Les_Comitadjis_Londres.pdf",
+      "author": "Albert Londres",
+      "year": "1932"
     },
     {
       "id": "antilles-caribsat-project-overview-2013-en",
