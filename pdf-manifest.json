@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-06",
+  "updated": "2026-11-10",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -618,6 +618,17 @@
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/701121-Camus-Fournier-recherche-de-base-avec-couverture.pdf",
       "author": "Guy Camus - Frédéric Fournier",
       "year": "1970"
+    },
+    {
+      "id": "biography-fabrizio-fr",
+      "title": "Fabrizio",
+      "lang": "fr",
+      "type": "livre",
+      "category": "biography",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/2026-Fabrizio-Yves-Emsellem.pdf",
+      "author": "Yves Emsellem",
+      "year": "2026",
+      "description": "\"... quand on est destiné à être un vagabond ...sur la Terre, mieux vaut le savoir - et l’accepter \"\nArthur Koestler, La Corde Raide\nEt Yves Emsellem est bien de ceux-là, vagabond citoyen du monde qui a parcouru le monde à travers ses activités professionnelles d'hydrogéologue.\nYves Emsellem nous réconcilie avec la nature humaine.Il aime profondément les gens. Il le démontre par son amour immodéré de l'Afrique et de ses peuples. Partout, il prend le même plaisir à rencontrer le plus humble des paysans et le plus élevé des dirigeants politiques.\nA travers les modèles de simulation de fonctionnement de nappes d'eau souterraine et les campagnes de forage qu'il a initiées avec Geolab, il a contribué à donner de l'eau potable à des milliers de villages en Afrique, au Moyen-Orient et dans bien d'autres régions de monde. Au total, Yves a produit de l'eau et de l'amitié dans plus de 50 pays.\nYves est né en 1938, c’est un Ancien de Volta. Il nous raconte, souvent dans le détail, ses travaux, ses échanges entre les années 60 et les années 2000 avec ses interlocuteurs souvent devenus ses amis.\nComment, à la lecture de ce livre empli de péripéties et d'anecdotes, ne pas devenir l'ami d'Yves?"
     }
   ],
   "categories": [
