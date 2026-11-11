@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -683,6 +683,17 @@
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/2005-Tranche-de-vie-Yves-Jalabert.pdf",
       "author": "Yves Jalabert",
       "year": "2005"
+    },
+    {
+      "id": "navigation-la-route-du-rhum---1978-2022-fr",
+      "title": "La Route du Rhum - 1978-2022",
+      "lang": "fr",
+      "type": "livre",
+      "category": "navigation",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/261111-Route-du-Rhum-1978-2022-avec-couverture.pdf",
+      "author": "Marc Morell",
+      "year": "2026",
+      "description": "Cet ouvrage raconte les douze premières éditions, de 1978 à 2022. Le parti pris est celui de l'exhaustivité : pour chaque course, la flotte complète, les bateaux, les marins, le déroulé et le classement final. Douze éditions représentent plusieurs centaines de bateaux et de skippers ; l'ensemble est donc réparti en trois parties."
     }
   ],
   "categories": [
