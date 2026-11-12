@@ -708,6 +708,17 @@
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/Guy-de-Maupassant-1880-Boule-de-suif-avec-couverture.pdf",
       "author": "Guy de Maupassant",
       "year": "1880"
+    },
+    {
+      "id": "litterature-terre-des-hommes-fr",
+      "title": "Terre des Hommes",
+      "lang": "fr",
+      "type": "livre",
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/Saint-Exupery-Terre-des-hommes-1939-makedoo.pdf",
+      "author": "Antoine de Saint-Exupéry",
+      "year": "1939",
+      "description": "L'homme se découvre dans l'épreuve et s'accomplit par les liens qu'il construit et les responsabilités qu'il accepte."
     }
   ],
   "categories": [
