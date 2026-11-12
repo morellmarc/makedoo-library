@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -698,6 +698,16 @@
       "author": "Marc Morell",
       "year": "2026",
       "description": "Cet ouvrage raconte les douze premières éditions, de 1978 à 2022. Le parti pris est celui de l'exhaustivité : pour chaque course, la flotte complète, les bateaux, les marins, le déroulé et le classement final. Douze éditions représentent plusieurs centaines de bateaux et de skippers ; l'ensemble est donc réparti en trois parties."
+    },
+    {
+      "id": "litt-rature-boule-de-suif-fr",
+      "title": "Boule de suif",
+      "lang": "fr",
+      "type": "livre",
+      "category": "litt-rature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/Guy-de-Maupassant-1880-Boule-de-suif-avec-couverture.pdf",
+      "author": "Guy de Maupassant",
+      "year": "1880"
     }
   ],
   "categories": [
@@ -710,6 +720,7 @@
     "algerie",
     "antilles",
     "navigation",
-    "geopolitique"
+    "geopolitique",
+    "litt-rature"
   ]
 }
