@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-09",
+  "updated": "2026-11-12",
   "tracks": [
     {
       "id": "bibliography--mk",
@@ -143,6 +143,17 @@
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/AUDIOS/261109-makedoo-presentation-marc-morell.mp3",
       "author": "Marc Morell",
       "year": "2026"
+    },
+    {
+      "id": "litterature-boule-de-suif-fr",
+      "title": "Boule de suif",
+      "lang": "fr",
+      "type": "livre",
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/AUDIOS/261112-boule-de-suif-audio.mp3",
+      "author": "Guy de Maupassant",
+      "year": "1880",
+      "description": "Dans \"Boule de suif\", Maupassant dénonce l'hypocrisie sociale, l'égoïsme et les préjugés : la femme jugée \"immorale\" se montre plus généreuse et plus digne que les personnes dites respectables."
     }
   ],
   "categories": [
@@ -153,6 +164,7 @@
     "algerie",
     "makedoo",
     "geopolitique",
-    "orstom"
+    "orstom",
+    "litterature"
   ]
 }
