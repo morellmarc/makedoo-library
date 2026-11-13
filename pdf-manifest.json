@@ -462,11 +462,13 @@
     },
     {
       "id": "algerie-albert-camus---l-ete-fr",
-      "title": "Albert Camus - L’été",
+      "title": "L’été",
       "lang": "fr",
       "type": "livre",
-      "category": "algerie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/1954-Albert-Camus-ete.pdf"
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/1954-Albert-Camus-ete.pdf",
+      "author": "Albert Camus",
+      "year": "1954"
     },
     {
       "id": "algerie-albert-camus---l-homme-revolte-fr",
