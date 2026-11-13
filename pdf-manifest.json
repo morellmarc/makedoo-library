@@ -456,11 +456,13 @@
     },
     {
       "id": "algerie-albert-camus---la-peste-fr",
-      "title": "Albert Camus - La peste",
+      "title": "La peste",
       "lang": "fr",
       "type": "livre",
-      "category": "algerie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1947-Albert-Camus-La-Peste.pdf"
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1947-Albert-Camus-La-Peste.pdf",
+      "author": "Albert Camus",
+      "year": "1947"
     },
     {
       "id": "algerie-albert-camus---l-ete-fr",
