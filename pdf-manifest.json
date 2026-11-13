@@ -763,6 +763,17 @@
       "author": "Antoine de Saint-Exupéry",
       "year": "1931",
       "description": "Avec « Vol de nuit » vous plongerez dans l’univers de la nuit et celle des débuts de l’aviation commerciale. Ces vols nocturnes que nous décrit Antoine de Saint-Exupéry acheminent des sacs de courrier entre les continents, première tentative d’une aviation commerciale, encore un peu balbutiante, pour concurrencer les autres moyens de transport."
+    },
+    {
+      "id": "litterature-courrier-sud-fr",
+      "title": "Courrier Sud",
+      "lang": "fr",
+      "type": "livre",
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/saint_exupery_courrier_sud-a5.pdf",
+      "author": "Antoine de Saint-Exupéry",
+      "year": "1929",
+      "description": "L’aventure de ce qui sera l’Aéropostale : ici, le transport du courrier de Toulouse  à Buenos-Aires en passant par Alicante, Gibraltar, Agadir au Maroc, la Mauritanie jusqu’à Dakar, où le courrier est, à cette époque, embarqué par voie maritime et envoyé en Amérique Latine. L’aéroplace-relais de Cap Juby est un maillon de cette chaîne, indispensable et isolé dont Saint-Exupéry a été nommé responsable. Les journées y sont longues, les nouvelles lentes à parvenir, la TSF peu fiable et l’on s’y sent au bout du monde.  Saint-Exupéry doit assurer la continuité des vols depuis cette enclave entouré de tribus, hostiles ou plus ou moins amicales, – et malheurs aux pilotes égarés dans leur territoire ! – en composant avec une administration espagnole et en tentant de porter secours à ses compagnons en difficulté."
     }
   ],
   "categories": [
