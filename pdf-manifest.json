@@ -446,11 +446,13 @@
     },
     {
       "id": "algerie-albert-camus---l-etranger-fr",
-      "title": "Albert Camus - L’étranger",
+      "title": "L’étranger",
       "lang": "fr",
       "type": "livre",
-      "category": "algerie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1942-Albert-Camus-L'Etranger.pdf"
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1942-Albert-Camus-L'Etranger.pdf",
+      "author": "Albert Camus",
+      "year": "1942"
     },
     {
       "id": "algerie-albert-camus---la-peste-fr",
