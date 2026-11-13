@@ -496,11 +496,13 @@
     },
     {
       "id": "algerie-albert-camus---l-envers-et-l-endroit-fr",
-      "title": "Albert Camus - L’envers et l’endroit",
+      "title": "L’envers et l’endroit",
       "lang": "fr",
       "type": "livre",
-      "category": "algerie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1958-Albert-Camus-Envers-et-endroit.pdf"
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1958-Albert-Camus-Envers-et-endroit.pdf",
+      "author": "Albert Camus",
+      "year": "1958"
     },
     {
       "id": "orstom-ird-un-tegard-sur-l-orstom---michel-gleizes-fr",
