@@ -484,11 +484,13 @@
     },
     {
       "id": "algerie-albert-camus---la-chute-fr",
-      "title": "Albert Camus - La chute",
+      "title": "La chute",
       "lang": "fr",
       "type": "livre",
-      "category": "algerie",
-      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1956-Albert-Camus-La-Chute.pdf"
+      "category": "litterature",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/1956-Albert-Camus-La-Chute.pdf",
+      "author": "Albert Camus",
+      "year": "1956"
     },
     {
       "id": "algerie-albert-camus---le-premier-homme-fr",
