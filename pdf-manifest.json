@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-17",
+  "updated": "2026-11-19",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -796,6 +796,18 @@
       "author": "Robert Louis Stevenson",
       "year": "1906",
       "description": "Vous voulez dire que vos histoires d’opium, d’épave, de contrebande et celle de l’homme qui devint votre ami étaient vraies ? » Loudon Dodd, un américain qui vient de débarquer aux Îles Marquises, étonne les membres du « Cercle » un lieu de rencontre des expatriés : « Vous vous rendrez bientôt compte par vous-même que nos occupations touchent à l’art, puisqu’elles sont un effort combiné de l’imagination et de l’observation, le mouvement en plus. Vous serez bientôt sous le charme !"
+    },
+    {
+      "id": "biography-chroniques-bordjiennes-fr",
+      "title": "Chroniques bordjiennes",
+      "lang": "fr",
+      "type": "livre",
+      "category": "biography",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/CV-Mohamed-Djaafar.pdf",
+      "author": "Mohamed Djaafar",
+      "year": "2020",
+      "description": "Chroniques bordjiennesest un recueil de succulentes incursions dans le passé pas très lointain de ce que fut Bordj Bou Arréridj, la ville natale de l'auteur, ses habitants, ses légendes vivantes, ses personnages hauts en couleurs, ses senteurs et ses anecdotes souvent cocasses. Des souvenirs d’une époque qui, loin d’être faste, n’en était pas moins palpitante que l’auteur tente d’arracher à l’oubli en se proposant d’immortaliser quelques anecdotes et souvenirs personnels et de partager le plaisir qu’il a eu à le faire.",
+      "amazon": "https://www.amazon.fr/-/en/Mohamed-Djaafar-ebook/dp/B09W66KRJM"
     }
   ],
   "categories": [
