@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "books": [
     {
       "id": "artificial-intelligence-de-l-id-e-l-application-fr",
@@ -682,13 +682,14 @@
     },
     {
       "id": "biography-ici-nous-la-bas-fr",
-      "title": "Ici, Nous, Là-bas - Algérie",
+      "title": "Ici, Nous, Là-bas - Vol 1",
       "lang": "fr",
       "type": "livre",
       "category": "biography",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/TEXTES/2007-Ici-Nous-La-Bas-jean-pierre-charles.pdf",
       "author": "Jean-Pierre Charles",
-      "year": "2007"
+      "year": "2012",
+      "description": "Itinéraire d’un Français d’Afrique, expulsé, exilé, nomade... Car, ici, en Algérie, nous ne pouvions imaginer devoir aller vivre là-bas... Quatre lettres : La première à mon ami, et compatriote, Algérien, depuis l’origine des temps jusqu’en 1962, et après 1992. La deuxième à mon ami, et compatriote, Français, depuis 1962. La troisième à lézôtres, collaborateurs, psychopathes et zélotes, de tout temps. La dernière, à toi ami lecteur du futur, en 2041, pour la Justice et la fraternité, pour un développement humain. Ni haine, ni pardon, ni silence, ni oubli, ni déni. C'EST. Pour l’écriture d’une vérité historique acceptable par tous sur le siècle et demi de présence française en Algérie. Communication, réconciliation, acceptation nationale, pour arrêter le Mal, pour un meilleur futur. Résister. Construire l'AMOUR"
     },
     {
       "id": "biography-tranche-de-vie-fr",
