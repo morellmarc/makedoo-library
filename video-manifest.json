@@ -1,8 +1,9 @@
 {
   "version": "1.0",
-  "updated": "2026-11-13",
+  "updated": "2026-11-22",
   "categories": [
-    "biography"
+    "biography",
+    "makedoo"
   ],
   "videos": [
     {
@@ -18,6 +19,13 @@
       "lang": "mk",
       "category": "biography",
       "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/VIDEOS/261031-Kim-Peek-1080p-MK.mp4"
+    },
+    {
+      "id": "makedoo-makedoo-logo-fr",
+      "title": "Makedoo Logo",
+      "lang": "fr",
+      "category": "makedoo",
+      "url": "https://filedn.eu/l42SBo4Ys5t4NBu6SpvlzV4/MAKEDOO/VIDEOS/261122-makedoo%20short-01.mp4"
     }
   ]
 }
